@@ -59,6 +59,7 @@ export default function Home(props) {
           <Row 
             driver={driver.driver} 
             key={i}
+            int={i+1}
             team={driver.team}
             car={driver.car}
             points={driver.points}
