@@ -3,6 +3,8 @@ import Head from 'next/head'
 import { useRouter } from 'next/router'
 import { SlideFade, Box, Text, HStack, Stack, SimpleGrid, Grid, GridItem, Flex } from '@chakra-ui/react'
 
+import Row from '../components/row'
+
 const carList = {0: "Porsche 991 GT3",
            1: "Mercedes AMG GT3",
            2: "Ferrari 488 GT3",
@@ -48,40 +50,21 @@ const carList = {0: "Porsche 991 GT3",
 export default function Home(props) {
   const driver_standings = props['Driver Standings']
   return (
-    <Box height='1080px' border='1px solid #000'>
+    <Box>
       <Head>
         <title>KindaCode.com</title>
       </Head>
       <Flex direction={'column'} wrap='wrap' height='1000px' width='1660px'>
       {driver_standings &&
         driver_standings.map((driver, i) => (
-          
-          <HStack key={i} bgColor='#222222' p={'2'} rounded='lg' maxW='580px' mb='1' mr='1'>
-            <Box 
-              bgColor="#FFF" 
-              width="40px" 
-              pt='2' 
-              pb='2' 
-              textAlign={'center'}
-              roundedBottomRight='lg'
-            >
-              <Text fontSize={'lg'} fontWeight='bold'>{i+1}</Text>
-            </Box>
-            <Box flex='1' color='#fff' borderLeft='2px solid' borderColor={driver.class} pl='5'>
-              <Text fontWeight={'bold'}>{driver.driver}</Text>
-              <Text noOfLines={1} fontSize={'sm'}>{driver.team} <Text fontSize={'sm'} as='span' color='grey'>{driver.car}</Text></Text>
-            </Box>
-            <Box bgColor="#F6CE5E" 
-              width="80px" 
-              pt='2' 
-              pb='2' 
-              textAlign={'center'}
-              rounded='md' 
-              color='#000'>
-                <Text fontSize={'lg'} fontWeight='bold'>{driver.points}</Text>
-            </Box>
-          </HStack>
-          
+          <Row 
+            driver={driver.driver} 
+            int={i}
+            team={driver.team}
+            car={driver.car}
+            points={driver.points}
+            driverClass={driver.class}
+          />
         ))
       }
       </Flex>

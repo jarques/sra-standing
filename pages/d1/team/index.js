@@ -48,7 +48,7 @@ const carList = {0: "Porsche 991 GT3",
 export default function Home(props) {
   const team_standing = props['Team Standings']
   return (
-    <Box height='1080px' border='1px solid #000'>
+    <Box>
       <Head>
         <title>SRA - Standing</title>
       </Head>
@@ -70,13 +70,11 @@ export default function Home(props) {
             <Box flex='1' color='#fff' borderLeft='2px solid' pl='5'>
               <Text fontWeight={'bold'}>{team["Team Name"]}</Text>
             </Box>
-            <Box bgColor="#F6CE5E" 
-              width="80px" 
-              pt='2' 
-              pb='2' 
-              textAlign={'center'}
+            <Box
+              pr='2' 
+              textAlign={'right'}
               rounded='md' 
-              color='#000'>
+              color='#F6CE5E'>
                 <Text fontSize={'lg'} fontWeight='bold'>{team["Points"]}</Text>
             </Box>
           </HStack>
