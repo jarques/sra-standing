@@ -46,15 +46,15 @@ const carList = {0: "Porsche 991 GT3",
            }
 
 export default function Home(props) {
-  const driver_standings = props['Driver Standings']
+  const team_standing = props['Team Standings']
   return (
     <Box height='1080px' border='1px solid #000'>
       <Head>
-        <title>KindaCode.com</title>
+        <title>SRA - Standing</title>
       </Head>
-      <Flex direction={'column'} wrap='wrap' height='1000px' width='1660px'>
-      {driver_standings &&
-        driver_standings.map((driver, i) => (
+      <Flex direction={'column'} wrap='wrap' height='600px' width='1660px'>
+      {team_standing &&
+        team_standing.map((team, i) => (
           
           <HStack key={i} bgColor='#222222' p={'2'} rounded='lg' maxW='580px' mb='1' mr='1'>
             <Box 
@@ -67,9 +67,8 @@ export default function Home(props) {
             >
               <Text fontSize={'lg'} fontWeight='bold'>{i+1}</Text>
             </Box>
-            <Box flex='1' color='#fff' borderLeft='2px solid' borderColor={driver.class} pl='5'>
-              <Text fontWeight={'bold'}>{driver.driver}</Text>
-              <Text noOfLines={1} fontSize={'sm'}>{driver.team} <Text fontSize={'sm'} as='span' color='grey'>{driver.car}</Text></Text>
+            <Box flex='1' color='#fff' borderLeft='2px solid' pl='5'>
+              <Text fontWeight={'bold'}>{team["Team Name"]}</Text>
             </Box>
             <Box bgColor="#F6CE5E" 
               width="80px" 
@@ -78,7 +77,7 @@ export default function Home(props) {
               textAlign={'center'}
               rounded='md' 
               color='#000'>
-                <Text fontSize={'lg'} fontWeight='bold'>{driver.points}</Text>
+                <Text fontSize={'lg'} fontWeight='bold'>{team["Points"]}</Text>
             </Box>
           </HStack>
           
@@ -96,7 +95,7 @@ import path from 'path'
 
 export async function getServerSideProps() {
 
-  const filePath = path.join(process.cwd(), 'data/standings_d1.json');
+  const filePath = path.join(process.cwd(), 'data/standings_d2.json');
   const jsonData = await fsPromises.readFile(filePath);
   const objectData = JSON.parse(jsonData);
 

@@ -96,7 +96,7 @@ import path from 'path'
 
 export async function getServerSideProps() {
 
-  const filePath = path.join(process.cwd(), 'data/standings_d1.json');
+  const filePath = path.join(process.cwd(), 'data/standings_d3.json');
   const jsonData = await fsPromises.readFile(filePath);
   const objectData = JSON.parse(jsonData);
 
