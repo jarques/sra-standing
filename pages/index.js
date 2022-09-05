@@ -1,6 +1,8 @@
 // pages/index.js
 import Head from 'next/head'
-import { Text, HStack, Stack, SimpleGrid } from '@chakra-ui/react'
+import { useRouter } from 'next/router'
+import { Box, Text, HStack, Stack, SimpleGrid, Grid, GridItem, Flex } from '@chakra-ui/react'
+
 const carList = {0: "Porsche 991 GT3",
            1: "Mercedes AMG GT3",
            2: "Ferrari 488 GT3",
@@ -45,16 +47,16 @@ const carList = {0: "Porsche 991 GT3",
 
 export default function Home(props) {
   const driver_standings = props['Driver Standings']
-  const num = '1'
   return (
     <Box height='1080px' border='1px solid #000'>
       <Head>
         <title>KindaCode.com</title>
       </Head>
-      <SimpleGrid p='10' columns='2' spacing={2}>
+      <Flex direction={'column'} wrap='wrap' height='1000px' width='1660px'>
       {driver_standings &&
         driver_standings.map((driver, i) => (
-          <HStack key={i} bgColor='#222222' p={'2'} rounded='lg'>
+          
+          <HStack key={i} bgColor='#222222' p={'2'} rounded='lg' maxW='580px' mb='1' mr='1'>
             <Box 
               bgColor="#FFF" 
               width="40px" 
@@ -67,7 +69,7 @@ export default function Home(props) {
             </Box>
             <Box flex='1' color='#fff' borderLeft='2px solid' borderColor={driver.class} pl='5'>
               <Text fontWeight={'bold'}>{driver.driver}</Text>
-              <Text fontSize={'sm'}>{driver.team} <Text fontSize={'sm'} as='span' color='grey'>{driver.car}</Text></Text>
+              <Text noOfLines={1} fontSize={'sm'}>{driver.team} <Text fontSize={'sm'} as='span' color='grey'>{driver.car}</Text></Text>
             </Box>
             <Box bgColor="#F6CE5E" 
               width="80px" 
@@ -78,12 +80,11 @@ export default function Home(props) {
               color='#000'>
                 <Text fontSize={'lg'} fontWeight='bold'>{driver.points}</Text>
             </Box>
-            {/* <Box bgColor={driver.class}>DIV</Box> */}
-            {/* <p> {driver.car} </p> */}
           </HStack>
+          
         ))
       }
-      </SimpleGrid>
+      </Flex>
     </Box>
   )
 }
@@ -91,8 +92,10 @@ export default function Home(props) {
 // Fetching data from the JSON file
 import fsPromises from 'fs/promises';
 import path from 'path'
-import { Box } from '@chakra-ui/react'
-export async function getStaticProps() {
+
+
+export async function getServerSideProps() {
+
   const filePath = path.join(process.cwd(), 'data/standings_d1.json');
   const jsonData = await fsPromises.readFile(filePath);
   const objectData = JSON.parse(jsonData);
