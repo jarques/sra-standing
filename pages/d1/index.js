@@ -59,7 +59,7 @@ export default function Home(props) {
         driver_standings.map((driver, i) => (
           <Row 
             driver={driver.driver} 
-            int={i}
+            key={i}
             team={driver.team}
             car={driver.car}
             points={driver.points}
