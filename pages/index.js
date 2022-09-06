@@ -1,6 +1,5 @@
 // pages/index.js
 import Head from 'next/head'
-import { useRouter } from 'next/router'
 import { SlideFade, Box, Text, HStack, Stack, SimpleGrid, Grid, GridItem, Flex } from '@chakra-ui/react'
 
 const carList = {0: "Porsche 991 GT3",
