@@ -1,8 +1,8 @@
 // pages/index.js
 import Head from 'next/head'
-import { useRouter } from 'next/router'
+import { Box, Flex, Center } from '@chakra-ui/react'
+
 import Row from '../components/row'
-import { SlideFade, Box, Text, HStack, Stack, SimpleGrid, Grid, GridItem, Flex } from '@chakra-ui/react'
 
 const carList = {0: "Porsche 991 GT3",
            1: "Mercedes AMG GT3",
@@ -49,25 +49,27 @@ const carList = {0: "Porsche 991 GT3",
 export default function Home(props) {
   const driver_standings = props['Driver Standings']
   return (
-    <Box height='1080px' border='1px solid #000'>
+    <Box>
       <Head>
-        <title>KindaCode.com</title>
+        <title>SRA - Standings</title>
       </Head>
-      <Flex direction={'column'} wrap='wrap' height='1000px' width='1660px'>
-      {driver_standings &&
-        driver_standings.map((driver, i) => (
-          <Row 
-            driver={driver.driver} 
-            key={i}
-            int={i+1}
-            team={driver.team}
-            car={driver.car}
-            points={driver.points}
-            driverClass={driver.class}
-          />
-        ))
-      }
-      </Flex>
+      <Center mt='100px'>
+        <Flex direction={'column'} wrap='wrap' height='950px' width='1920px' pl='10' pr='10'>
+          {driver_standings &&
+            driver_standings.map((driver, i) => (
+              <Row 
+                driver={driver.driver} 
+                key={i}
+                int={i+1}
+                team={driver.team}
+                car={driver.car}
+                points={driver.points}
+                driverClass={driver.class}
+              />
+            ))
+          }
+        </Flex>
+      </Center>
     </Box>
   )
 }

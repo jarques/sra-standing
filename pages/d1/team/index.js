@@ -1,7 +1,8 @@
 // pages/index.js
 import Head from 'next/head'
-import { useRouter } from 'next/router'
-import { SlideFade, Box, Text, HStack, Stack, SimpleGrid, Grid, GridItem, Flex } from '@chakra-ui/react'
+import TeamRow from '../../components/teamrow'
+
+import { Center, Box, Text, HStack,  Flex } from '@chakra-ui/react'
 
 const carList = {0: "Porsche 991 GT3",
            1: "Mercedes AMG GT3",
@@ -50,38 +51,22 @@ export default function Home(props) {
   return (
     <Box>
       <Head>
-        <title>SRA - Standing</title>
+        <title>SRA - Standings</title>
       </Head>
-      <Flex direction={'column'} wrap='wrap' height='600px' width='1660px'>
+      <Center mt='200px'>
+        <Flex direction={'column'} wrap='wrap' height='600px' width='1620px' pl='10' pr='10'>
       {team_standing &&
         team_standing.map((team, i) => (
-          
-          <HStack key={i} bgColor='#222222' p={'2'} rounded='lg' maxW='580px' mb='1' mr='1'>
-            <Box 
-              bgColor="#FFF" 
-              width="40px" 
-              pt='2' 
-              pb='2' 
-              textAlign={'center'}
-              roundedBottomRight='lg'
-            >
-              <Text fontSize={'lg'} fontWeight='bold'>{i+1}</Text>
-            </Box>
-            <Box flex='1' color='#fff' borderLeft='2px solid' pl='5'>
-              <Text fontWeight={'bold'}>{team["Team Name"]}</Text>
-            </Box>
-            <Box
-              pr='2' 
-              textAlign={'right'}
-              rounded='md' 
-              color='#F6CE5E'>
-                <Text fontSize={'lg'} fontWeight='bold'>{team["Points"]}</Text>
-            </Box>
-          </HStack>
-          
+          <TeamRow 
+            teamName={team["Team Name"]} 
+            key={i}
+            int={i+1}
+            points={team["Points"]}
+          />
         ))
       }
       </Flex>
+      </Center>
     </Box>
   )
 }

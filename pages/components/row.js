@@ -1,9 +1,9 @@
-import { Box, Text, HStack, Flex } from '@chakra-ui/react'
+import { Box, Text, HStack } from '@chakra-ui/react'
 
 export default function Row(props) {
   const rank = props.driverClass != 'Unrated' ? props.driverClass : 'red'
   return (
-    <HStack key={props.int} bgColor='rgba(0,0,0,.9)' p={'2'} rounded='lg' maxW='580px' mb='1' mr='1'>
+    <HStack key={props.int} bgColor='#0A1123' p={'2'} rounded='lg' maxW='580px' mb='1' mr='1'>
         <Box 
           bgColor="#FFF" 
           width="40px" 
