@@ -11,7 +11,7 @@ export default function TeamRow(props) {
         textAlign={'center'}
         roundedBottomRight='lg'
       >
-        <Text fontSize={'lg'} fontWeight='bold'>{props.int+1}</Text>
+        <Text fontSize={'lg'} fontWeight='bold'>{props.int}</Text>
       </Box>
       <Box flex='1' color='#fff' borderLeft='2px solid' pl='5'>
         <Text fontWeight={'bold'}>{props.teamName}</Text>
