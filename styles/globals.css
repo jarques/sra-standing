@@ -1,4 +1,7 @@
 @import url('/public/GrandNational.otf');
+body {
+  background-color: #171E33 !important;
+}
 html,
 body {
   padding: 0;
