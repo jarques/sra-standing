@@ -1,1 +1,439 @@
-{"Driver Standings": [{"driver": "Ryan Passage", "points": "533", "car": "Ferrari 488 GT3 Evo", "team": "Ronin Racing", "class": "Gold"}, {"driver": "JB Ruzic", "points": "386", "car": "Honda NSX Evo 2019", "team": "Carolina Reapers", "class": "Gold"}, {"driver": "Ken Miller", "points": "377", "car": "Ferrari 488 GT3 Evo", "team": "Stardust Competizione", "class": "Silver"}, {"driver": "Jan Rodricks", "points": "368", "car": "Audi R8 LMS Evo II 2022", "team": "Baseline Racing", "class": "Gold"}, {"driver": "Durban Legacy", "points": "362", "car": "McLaren 720S GT3 Special", "team": "Team McLaren - 905 Slammed Division", "class": "Gold"}, {"driver": "Loukas Klentzeris", "points": "349", "car": "Honda NSX Evo 2019", "team": "Boba Boys Racing", "class": "Gold"}, {"driver": "Stephen Sarver", "points": "349", "car": "Audi R8 LMS Evo II 2022", "team": "Baseline Racing", "class": "Gold"}, {"driver": "Milo Green", "points": "345", "car": "Ferrari 488 GT3 Evo", "team": "Scuderia Skydust", "class": "Gold"}, {"driver": "Zack Sky", "points": "323", "car": "Ferrari 488 GT3 Evo", "team": "Scuderia Skydust", "class": "Gold"}, {"driver": "Dhawal Bhanderi", "points": "323", "car": "McLaren 720S GT3 Special", "team": "Grid Thieves Motorsports IV", "class": "Gold"}, {"driver": "Rusty Shackleford", "points": "321", "car": "Porsche 991 II GT3 R 2019", "team": "VAPE GODS", "class": "Gold"}, {"driver": "Ren Aoki", "points": "312", "car": "Honda NSX Evo 2019", "team": "Carolina Reapers", "class": "Gold"}, {"driver": "Dan Meyer", "points": "269", "car": "Audi R8 LMS Evo II 2022", "team": "Tre Ragazzi", "class": "Gold"}, {"driver": "Jeff Sheppard (Nacho)", "points": "259", "car": "Nissan GT-R Nismo GT3 2018", "team": "GTR DUN", "class": "Gold"}, {"driver": "Conor Farrell", "points": "245", "car": "McLaren 720S GT3 Special", "team": "Wonderland Racing", "class": "Silver"}, {"driver": "Kevin Unda", "points": "245", "car": "Mercedes AMG GT3 2020", "team": "Parafuseta Motorsports", "class": "Gold"}, {"driver": "Chris Bertus", "points": "238", "car": "Ferrari 488 GT3 Evo", "team": "Flying Fotographic Ferraris D4", "class": "Silver"}, {"driver": "Nicklaus Connor", "points": "201", "car": "McLaren 720S GT3 Special", "team": "Backpack Racing", "class": "Silver"}, {"driver": "Philip Menzies", "points": "188", "car": "Honda NSX Evo 2019", "team": "Boba Boys Racing", "class": "Silver"}, {"driver": "Darren Robichaud", "points": "187", "car": "Bentley Continental GT3 2018", "team": "Scrambler", "class": "Gold"}, {"driver": "Josh Butler", "points": "185", "car": "Honda NSX Evo 2019", "team": "Mario Kartz", "class": "Gold"}, {"driver": "Patches O'Hoolihan", "points": "175", "car": "McLaren 720S GT3 Special", "team": "Average Joe's", "class": "Silver"}, {"driver": "Ramon Lorenzo", "points": "170", "car": "Honda NSX Evo 2019", "team": "Mario Kartz", "class": "Gold"}, {"driver": "Jordan Kimball", "points": "165", "car": "Aston Martin Vantage V8 2019", "team": "Teapot Racing Department", "class": "Silver"}, {"driver": "Christian Lobello", "points": "146", "car": "McLaren 720S GT3 Special", "team": "Backpack Racing", "class": "Silver"}, {"driver": "Chad Santer", "points": "128", "car": "McLaren 720S GT3 Special", "team": "Grid Thieves Motorsports IV", "class": "Silver"}, {"driver": "Harry Hill", "points": "117", "car": "Porsche 991 II GT3 R 2019", "team": "VAPE GODS", "class": "Gold"}, {"driver": "\u00ef\u00bd\u0085. .\u00ef\u00bd\u0085. . . . .\u00ef\u00bd\u008c", "points": "114", "car": "Lamborghini Huracan Evo 2019", "team": "Marella Instant", "class": "Silver"}, {"driver": "P Rigatoni", "points": "109", "car": "Ferrari 488 GT3 Evo", "team": "Indifference", "class": "Gold"}, {"driver": "Eva Astra", "points": "103", "car": "Lamborghini Huracan Evo 2019", "team": "Marella Instant", "class": "Unrated"}, {"driver": "Sam Harris", "points": "97", "car": "Nissan GT-R Nismo GT3 2018", "team": "GTR DUN", "class": "Silver"}, {"driver": "Jak Patch", "points": "91", "car": "McLaren 720S GT3 Special", "team": "Ghost Rider Racing Charlie", "class": "Silver"}, {"driver": "Phil Cibulka", "points": "84", "car": "Audi R8 LMS Evo II 2022", "team": "Tre Ragazzi", "class": "Silver"}, {"driver": "Steven Brule", "points": "79", "car": "Ferrari 488 GT3 Evo", "team": "Ronin Racing", "class": "Unrated"}, {"driver": "Roberto Rosa", "points": "76", "car": "Mercedes AMG GT3 2020", "team": "Parafuseta Motorsports", "class": "Silver"}, {"driver": "Brandon Batt", "points": "66", "car": "Ferrari 488 GT3 Evo", "team": "Flying Fotographic Ferraris D4", "class": "Silver"}, {"driver": "Kyle McGuinness", "points": "61", "car": "Ferrari 488 GT3 Evo", "team": "Indifference", "class": "Silver"}, {"driver": "Matt Caissie", "points": "52", "car": "McLaren 720S GT3 Special", "team": "Wonderland Racing", "class": "Silver"}, {"driver": "Jacob Wolfman", "points": "45", "car": "Ferrari 488 GT3 Evo", "team": "Bad Boys Club", "class": "Gold"}, {"driver": "Steph Dutton", "points": "44", "car": "McLaren 720S GT3 Special", "team": "Team McLaren Racing - DMV", "class": "Unrated"}, {"driver": "Michael Micieli", "points": "44", "car": "McLaren 720S GT3 Special", "team": "Team McLaren - 905 Slammed Division", "class": "Silver"}, {"driver": "Noah Fong", "points": "39", "car": "McLaren 720S GT3 Special", "team": "Aero Motorsports", "class": "Unrated"}, {"driver": "Cole Compton", "points": "38", "car": "Aston Martin Vantage V8 2019", "team": "Teapot Racing Department", "class": "Unrated"}, {"driver": "Nate Allen", "points": "36", "car": "McLaren 720S GT3 Special", "team": "Average Joe's", "class": "Unrated"}, {"driver": "Leonardo Fran\u00c3\u00a7a", "points": "27", "car": "BMW M4 GT3 2022", "team": "Ti\u00c3\u00a3o Team Racing", "class": "Unrated"}, {"driver": "Drache Tibbetts", "points": "23", "car": "Ferrari 488 GT3 Evo", "team": "Stardust Competizione", "class": "Unrated"}, {"driver": "Gavin Thomas", "points": "0", "car": "Ferrari 488 GT3 Evo", "team": "Bad Boys Club", "class": "Gold"}], "Team Standings": [{"Team Name": "Carolina Reapers", "Points": "767"}, {"Team Name": "Baseline Racing", "Points": "746"}, {"Team Name": "Ronin Racing", "Points": "704"}, {"Team Name": "Scuderia Skydust", "Points": "701"}, {"Team Name": "Boba Boys Racing", "Points": "557"}, {"Team Name": "Grid Thieves Motorsports IV", "Points": "486"}, {"Team Name": "Stardust Competizione", "Points": "468"}, {"Team Name": "VAPE GODS", "Points": "438"}, {"Team Name": "Team McLaren - 905 Slammed Division", "Points": "406"}, {"Team Name": "Tre Ragazzi", "Points": "380"}, {"Team Name": "GTR DUN", "Points": "363"}, {"Team Name": "Backpack Racing", "Points": "358"}, {"Team Name": "Mario Kartz", "Points": "355"}, {"Team Name": "Parafuseta Motorsports", "Points": "340"}, {"Team Name": "Flying Fotographic Ferraris D4", "Points": "304"}, {"Team Name": "Wonderland Racing", "Points": "297"}, {"Team Name": "Average Joe's", "Points": "226"}, {"Team Name": "Marella Instant", "Points": "217"}, {"Team Name": "Teapot Racing Department", "Points": "203"}, {"Team Name": "Scrambler", "Points": "187"}, {"Team Name": "Indifference", "Points": "170"}, {"Team Name": "Ghost Rider Racing Charlie", "Points": "91"}, {"Team Name": "Bad Boys Club", "Points": "45"}, {"Team Name": "Team McLaren Racing - DMV", "Points": "44"}, {"Team Name": "Aero Motorsports", "Points": "39"}, {"Team Name": "Ti\u00c3\u00a3o Team Racing", "Points": "27"}]}
+{
+    "Driver Standings": [
+        {
+            "driver": "Ryan Passage",
+            "points": "625",
+            "car": "Ferrari 488 GT3 Evo",
+            "team": "Ronin Racing",
+            "class": "Gold"
+        },
+        {
+            "driver": "Durban Legacy",
+            "points": "473",
+            "car": "McLaren 720S GT3 Special",
+            "team": "Team McLaren - 905 Slammed Division",
+            "class": "Gold"
+        },
+        {
+            "driver": "Ken Miller",
+            "points": "445",
+            "car": "Ferrari 488 GT3 Evo",
+            "team": "Stardust Competizione",
+            "class": "Silver"
+        },
+        {
+            "driver": "JB Ruzic",
+            "points": "443",
+            "car": "Honda NSX Evo 2019",
+            "team": "Carolina Reapers",
+            "class": "Gold"
+        },
+        {
+            "driver": "Stephen Sarver",
+            "points": "441",
+            "car": "Audi R8 LMS Evo II 2022",
+            "team": "Baseline Racing",
+            "class": "Gold"
+        },
+        {
+            "driver": "Jan Rodricks",
+            "points": "440",
+            "car": "Audi R8 LMS Evo II 2022",
+            "team": "Baseline Racing",
+            "class": "Gold"
+        },
+        {
+            "driver": "Milo Green",
+            "points": "430",
+            "car": "Ferrari 488 GT3 Evo",
+            "team": "Scuderia Skydust",
+            "class": "Gold"
+        },
+        {
+            "driver": "Zack Sky",
+            "points": "383",
+            "car": "Ferrari 488 GT3 Evo",
+            "team": "Scuderia Skydust",
+            "class": "Gold"
+        },
+        {
+            "driver": "Loukas Klentzeris",
+            "points": "363",
+            "car": "Honda NSX Evo 2019",
+            "team": "Boba Boys Racing",
+            "class": "Gold"
+        },
+        {
+            "driver": "Dhawal Bhanderi",
+            "points": "358",
+            "car": "McLaren 720S GT3 Special",
+            "team": "Grid Thieves Motorsports IV",
+            "class": "Gold"
+        },
+        {
+            "driver": "Jeff Sheppard (Nacho)",
+            "points": "335",
+            "car": "Nissan GT-R Nismo GT3 2018",
+            "team": "GTR DUN",
+            "class": "Gold"
+        },
+        {
+            "driver": "Ren Aoki",
+            "points": "333",
+            "car": "Honda NSX Evo 2019",
+            "team": "Carolina Reapers",
+            "class": "Gold"
+        },
+        {
+            "driver": "Rusty Shackleford",
+            "points": "321",
+            "car": "Porsche 991 II GT3 R 2019",
+            "team": "VAPE GODS",
+            "class": "Gold"
+        },
+        {
+            "driver": "Chris Bertus",
+            "points": "318",
+            "car": "Ferrari 488 GT3 Evo",
+            "team": "Flying Fotographic Ferraris D4",
+            "class": "Silver"
+        },
+        {
+            "driver": "Dan Meyer",
+            "points": "296",
+            "car": "Audi R8 LMS Evo II 2022",
+            "team": "Tre Ragazzi",
+            "class": "Gold"
+        },
+        {
+            "driver": "Kevin Unda",
+            "points": "286",
+            "car": "Mercedes AMG GT3 2020",
+            "team": "Parafuseta Motorsports",
+            "class": "Gold"
+        },
+        {
+            "driver": "Conor Farrell",
+            "points": "282",
+            "car": "McLaren 720S GT3 Special",
+            "team": "Wonderland Racing",
+            "class": "Silver"
+        },
+        {
+            "driver": "Philip Menzies",
+            "points": "239",
+            "car": "Honda NSX Evo 2019",
+            "team": "Boba Boys Racing",
+            "class": "Silver"
+        },
+        {
+            "driver": "Darren Robichaud",
+            "points": "230",
+            "car": "Bentley Continental GT3 2018",
+            "team": "Scrambler",
+            "class": "Gold"
+        },
+        {
+            "driver": "Ramon Lorenzo",
+            "points": "218",
+            "car": "Honda NSX Evo 2019",
+            "team": "Mario Kartz",
+            "class": "Gold"
+        },
+        {
+            "driver": "Nicklaus Connor",
+            "points": "212",
+            "car": "McLaren 720S GT3 Special",
+            "team": "Backpack Racing",
+            "class": "Silver"
+        },
+        {
+            "driver": "P Rigatoni",
+            "points": "209",
+            "car": "Ferrari 488 GT3 Evo",
+            "team": "Indifference",
+            "class": "Gold"
+        },
+        {
+            "driver": "Patches O'Hoolihan",
+            "points": "208",
+            "car": "McLaren 720S GT3 Special",
+            "team": "Average Joe's",
+            "class": "Silver"
+        },
+        {
+            "driver": "Jordan Kimball",
+            "points": "204",
+            "car": "Aston Martin Vantage V8 2019",
+            "team": "Teapot Racing Department",
+            "class": "Silver"
+        },
+        {
+            "driver": "Chad Santer",
+            "points": "192",
+            "car": "McLaren 720S GT3 Special",
+            "team": "Grid Thieves Motorsports IV",
+            "class": "Silver"
+        },
+        {
+            "driver": "Josh Butler",
+            "points": "185",
+            "car": "Honda NSX Evo 2019",
+            "team": "Mario Kartz",
+            "class": "Gold"
+        },
+        {
+            "driver": "Christian Lobello",
+            "points": "146",
+            "car": "McLaren 720S GT3 Special",
+            "team": "Backpack Racing",
+            "class": "Silver"
+        },
+        {
+            "driver": "Jak Patch",
+            "points": "136",
+            "car": "McLaren 720S GT3 Special",
+            "team": "Ghost Rider Racing Charlie",
+            "class": "Silver"
+        },
+        {
+            "driver": "Harry Hill",
+            "points": "117",
+            "car": "Porsche 991 II GT3 R 2019",
+            "team": "VAPE GODS",
+            "class": "Gold"
+        },
+        {
+            "driver": "Sam Harris",
+            "points": "116",
+            "car": "Nissan GT-R Nismo GT3 2018",
+            "team": "GTR DUN",
+            "class": "Silver"
+        },
+        {
+            "driver": "\u00ef\u00bd\u0085. .\u00ef\u00bd\u0085. . . . .\u00ef\u00bd\u008c",
+            "points": "114",
+            "car": "Lamborghini Huracan Evo 2019",
+            "team": "Marella Instant",
+            "class": "Silver"
+        },
+        {
+            "driver": "Roberto Rosa",
+            "points": "111",
+            "car": "Mercedes AMG GT3 2020",
+            "team": "Parafuseta Motorsports",
+            "class": "Silver"
+        },
+        {
+            "driver": "Steven Brule",
+            "points": "108",
+            "car": "Ferrari 488 GT3 Evo",
+            "team": "Ronin Racing",
+            "class": "Unrated"
+        },
+        {
+            "driver": "Eva Astra",
+            "points": "103",
+            "car": "Lamborghini Huracan Evo 2019",
+            "team": "Marella Instant",
+            "class": "Silver"
+        },
+        {
+            "driver": "Phil Cibulka",
+            "points": "84",
+            "car": "Audi R8 LMS Evo II 2022",
+            "team": "Tre Ragazzi",
+            "class": "Silver"
+        },
+        {
+            "driver": "Kyle McGuinness",
+            "points": "84",
+            "car": "Ferrari 488 GT3 Evo",
+            "team": "Indifference",
+            "class": "Silver"
+        },
+        {
+            "driver": "Michael Micieli",
+            "points": "71",
+            "car": "McLaren 720S GT3 Special",
+            "team": "Team McLaren - 905 Slammed Division",
+            "class": "Silver"
+        },
+        {
+            "driver": "Nate Allen",
+            "points": "67",
+            "car": "McLaren 720S GT3 Special",
+            "team": "Average Joe's",
+            "class": "Silver"
+        },
+        {
+            "driver": "Brandon Batt",
+            "points": "66",
+            "car": "Ferrari 488 GT3 Evo",
+            "team": "Flying Fotographic Ferraris D4",
+            "class": "Silver"
+        },
+        {
+            "driver": "Noah Fong",
+            "points": "64",
+            "car": "McLaren 720S GT3 Special",
+            "team": "Aero Motorsports",
+            "class": "Unrated"
+        },
+        {
+            "driver": "Cole Compton",
+            "points": "55",
+            "car": "Aston Martin Vantage V8 2019",
+            "team": "Teapot Racing Department",
+            "class": "Unrated"
+        },
+        {
+            "driver": "Matt Caissie",
+            "points": "52",
+            "car": "McLaren 720S GT3 Special",
+            "team": "Wonderland Racing",
+            "class": "Silver"
+        },
+        {
+            "driver": "Jacob Wolfman",
+            "points": "45",
+            "car": "Ferrari 488 GT3 Evo",
+            "team": "Bad Boys Club",
+            "class": "Gold"
+        },
+        {
+            "driver": "Steph Dutton",
+            "points": "44",
+            "car": "McLaren 720S GT3 Special",
+            "team": "Team McLaren Racing - DMV",
+            "class": "Unrated"
+        },
+        {
+            "driver": "Leonardo Fran\u00c3\u00a7a",
+            "points": "27",
+            "car": "BMW M4 GT3 2022",
+            "team": "Ti\u00c3\u00a3o Team Racing",
+            "class": "Unrated"
+        },
+        {
+            "driver": "Drache Tibbetts",
+            "points": "23",
+            "car": "Ferrari 488 GT3 Evo",
+            "team": "Stardust Competizione",
+            "class": "Unrated"
+        },
+        {
+            "driver": "Gavin Thomas",
+            "points": "0",
+            "car": "Ferrari 488 GT3 Evo",
+            "team": "Bad Boys Club",
+            "class": "Gold"
+        }
+    ],
+    "Team Standings": [
+        {
+            "Team Name": "Baseline Racing",
+            "Points": "910"
+        },
+        {
+            "Team Name": "Scuderia Skydust",
+            "Points": "846"
+        },
+        {
+            "Team Name": "Carolina Reapers",
+            "Points": "845"
+        },
+        {
+            "Team Name": "Ronin Racing",
+            "Points": "801"
+        },
+        {
+            "Team Name": "Boba Boys Racing",
+            "Points": "609"
+        },
+        {
+            "Team Name": "Grid Thieves Motorsports IV",
+            "Points": "550"
+        },
+        {
+            "Team Name": "Team McLaren - 905 Slammed Division",
+            "Points": "544"
+        },
+        {
+            "Team Name": "Stardust Competizione",
+            "Points": "522"
+        },
+        {
+            "Team Name": "GTR DUN",
+            "Points": "458"
+        },
+        {
+            "Team Name": "VAPE GODS",
+            "Points": "438"
+        },
+        {
+            "Team Name": "Parafuseta Motorsports",
+            "Points": "416"
+        },
+        {
+            "Team Name": "Mario Kartz",
+            "Points": "403"
+        },
+        {
+            "Team Name": "Flying Fotographic Ferraris D4",
+            "Points": "384"
+        },
+        {
+            "Team Name": "Tre Ragazzi",
+            "Points": "380"
+        },
+        {
+            "Team Name": "Backpack Racing",
+            "Points": "358"
+        },
+        {
+            "Team Name": "Wonderland Racing",
+            "Points": "334"
+        },
+        {
+            "Team Name": "Indifference",
+            "Points": "293"
+        },
+        {
+            "Team Name": "Average Joe's",
+            "Points": "290"
+        },
+        {
+            "Team Name": "Teapot Racing Department",
+            "Points": "259"
+        },
+        {
+            "Team Name": "Scrambler",
+            "Points": "230"
+        },
+        {
+            "Team Name": "Marella Instant",
+            "Points": "217"
+        },
+        {
+            "Team Name": "Ghost Rider Racing Charlie",
+            "Points": "136"
+        },
+        {
+            "Team Name": "Aero Motorsports",
+            "Points": "64"
+        },
+        {
+            "Team Name": "Bad Boys Club",
+            "Points": "45"
+        },
+        {
+            "Team Name": "Team McLaren Racing - DMV",
+            "Points": "44"
+        },
+        {
+            "Team Name": "Ti\u00c3\u00a3o Team Racing",
+            "Points": "27"
+        }
+    ]
+}
