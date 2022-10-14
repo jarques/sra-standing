@@ -2,31 +2,59 @@
     "Driver Standings": [
         {
             "driver": "Daniel Gutierrez",
-            "points": "526",
+            "points": "636",
             "car": "Honda NSX Evo 2019",
             "team": "Tyler's Toes",
             "class": "Gold"
         },
         {
             "driver": "Roby Toty",
-            "points": "417",
+            "points": "517",
             "car": "Mercedes AMG GT3 2020",
             "team": "Apex Hunterz",
             "class": "Gold"
         },
         {
             "driver": "Cory Cercone",
-            "points": "416",
+            "points": "470",
             "car": "BMW M4 GT3 2022",
             "team": "Baseline Racing ll",
             "class": "Gold"
         },
         {
             "driver": "Ron FLO",
-            "points": "365",
+            "points": "457",
             "car": "Mercedes AMG GT3 2020",
             "team": "Apex Hunterz",
             "class": "Silver"
+        },
+        {
+            "driver": "Curtis Lee",
+            "points": "398",
+            "car": "Lexus RC F GT3",
+            "team": "Afterburner",
+            "class": "Gold"
+        },
+        {
+            "driver": "Jacob Rutkoske",
+            "points": "391",
+            "car": "Ferrari 488 GT3 Evo",
+            "team": "Grid Thieves Motorsports Failure",
+            "class": "Gold"
+        },
+        {
+            "driver": "Felipe Botlla",
+            "points": "383",
+            "car": "BMW M4 GT3 2022",
+            "team": "Grid Thieves Motorsports III",
+            "class": "Gold"
+        },
+        {
+            "driver": "DJ Watts",
+            "points": "375",
+            "car": "Lexus RC F GT3",
+            "team": "Afterburner",
+            "class": "Gold"
         },
         {
             "driver": "Ramsey Connely",
@@ -36,10 +64,24 @@
             "class": "Gold"
         },
         {
-            "driver": "Felipe Botlla",
-            "points": "346",
+            "driver": "Tony Spagett",
+            "points": "347",
+            "car": "Mercedes AMG GT3 2020",
+            "team": "OMG AMG D3",
+            "class": "Gold"
+        },
+        {
+            "driver": "Jobry GTG",
+            "points": "342",
             "car": "BMW M4 GT3 2022",
-            "team": "Grid Thieves Motorsports III",
+            "team": "Baseline Racing ll",
+            "class": "Silver"
+        },
+        {
+            "driver": "Michael Henke",
+            "points": "338",
+            "car": "Ferrari 488 GT3 Evo",
+            "team": "Plan E Racing III",
             "class": "Gold"
         },
         {
@@ -50,31 +92,10 @@
             "class": "Gold"
         },
         {
-            "driver": "Jacob Rutkoske",
-            "points": "314",
-            "car": "Ferrari 488 GT3 Evo",
-            "team": "Grid Thieves Motorsports Failure",
-            "class": "Gold"
-        },
-        {
-            "driver": "Curtis Lee",
-            "points": "313",
-            "car": "Lexus RC F GT3",
-            "team": "Afterburner",
-            "class": "Gold"
-        },
-        {
-            "driver": "DJ Watts",
-            "points": "307",
-            "car": "Lexus RC F GT3",
-            "team": "Afterburner",
-            "class": "Gold"
-        },
-        {
-            "driver": "Tony Spagett",
-            "points": "299",
-            "car": "Mercedes AMG GT3 2020",
-            "team": "OMG AMG D3",
+            "driver": "Roger Rodriguez",
+            "points": "285",
+            "car": "McLaren 720S GT3 Special",
+            "team": "Team McLaren - ToxiicGoose",
             "class": "Gold"
         },
         {
@@ -85,25 +106,11 @@
             "class": "Gold"
         },
         {
-            "driver": "Jobry GTG",
-            "points": "270",
-            "car": "BMW M4 GT3 2022",
-            "team": "Baseline Racing ll",
-            "class": "Silver"
-        },
-        {
-            "driver": "Michael Henke",
-            "points": "258",
-            "car": "Ferrari 488 GT3 Evo",
-            "team": "Plan E Racing III",
-            "class": "Gold"
-        },
-        {
-            "driver": "Roger Rodriguez",
-            "points": "234",
+            "driver": "Colton Bailey",
+            "points": "254",
             "car": "McLaren 720S GT3 Special",
             "team": "Team McLaren - ToxiicGoose",
-            "class": "Gold"
+            "class": "Silver"
         },
         {
             "driver": "Aidan Grover",
@@ -111,6 +118,13 @@
             "car": "Lamborghini Huracan Evo 2019",
             "team": "Ghost Rider Racing Omega",
             "class": "Gold"
+        },
+        {
+            "driver": "Matt Browning",
+            "points": "213",
+            "car": "McLaren 720S GT3 Special",
+            "team": "Ghost Rider Racing Bravo",
+            "class": "Silver"
         },
         {
             "driver": "Curtis Larade",
@@ -127,10 +141,24 @@
             "class": "Gold"
         },
         {
-            "driver": "Colton Bailey",
-            "points": "194",
-            "car": "McLaren 720S GT3 Special",
-            "team": "Team McLaren - ToxiicGoose",
+            "driver": "Jeff Brown",
+            "points": "192",
+            "car": "Lexus RC F GT3",
+            "team": "Armpit Cats",
+            "class": "Silver"
+        },
+        {
+            "driver": "Kyle Miller",
+            "points": "190",
+            "car": "Lamborghini Huracan Evo 2019",
+            "team": "Ghost Rider Racing Omega",
+            "class": "Silver"
+        },
+        {
+            "driver": "Jonathan Biccum",
+            "points": "189",
+            "car": "Ferrari 488 GT3 Evo",
+            "team": "Chicanery Racing",
             "class": "Silver"
         },
         {
@@ -141,10 +169,17 @@
             "class": "Silver"
         },
         {
-            "driver": "Matt Browning",
-            "points": "180",
+            "driver": "Marty Spacebaker",
+            "points": "182",
             "car": "McLaren 720S GT3 Special",
-            "team": "Ghost Rider Racing Bravo",
+            "team": "Paddy's Pub Racing",
+            "class": "Silver"
+        },
+        {
+            "driver": "Thomas Holmes",
+            "points": "181",
+            "car": "Ferrari 488 GT3 Evo",
+            "team": "Chicanery Racing",
             "class": "Silver"
         },
         {
@@ -155,31 +190,10 @@
             "class": "Silver"
         },
         {
-            "driver": "Jonathan Biccum",
-            "points": "164",
-            "car": "Ferrari 488 GT3 Evo",
-            "team": "Chicanery Racing",
-            "class": "Silver"
-        },
-        {
-            "driver": "Jeff Brown",
-            "points": "147",
-            "car": "Lexus RC F GT3",
-            "team": "Armpit Cats",
-            "class": "Silver"
-        },
-        {
-            "driver": "Kyle Miller",
-            "points": "147",
-            "car": "Lamborghini Huracan Evo 2019",
-            "team": "Ghost Rider Racing Omega",
-            "class": "Silver"
-        },
-        {
-            "driver": "Marty Spacebaker",
-            "points": "147",
+            "driver": "Chris Witting Jr",
+            "points": "159",
             "car": "McLaren 720S GT3 Special",
-            "team": "Paddy's Pub Racing",
+            "team": "Ghost Rider Racing Bravo",
             "class": "Silver"
         },
         {
@@ -190,13 +204,6 @@
             "class": "Gold"
         },
         {
-            "driver": "Thomas Holmes",
-            "points": "142",
-            "car": "Ferrari 488 GT3 Evo",
-            "team": "Chicanery Racing",
-            "class": "Silver"
-        },
-        {
             "driver": "Flash Chiba",
             "points": "138",
             "car": "Aston Martin Vantage V8 2019",
@@ -204,18 +211,25 @@
             "class": "Silver"
         },
         {
-            "driver": "Chris Witting Jr",
-            "points": "102",
-            "car": "McLaren 720S GT3 Special",
-            "team": "Ghost Rider Racing Bravo",
-            "class": "Silver"
-        },
-        {
             "driver": "Louis Formigal",
-            "points": "98",
+            "points": "135",
             "car": "Lexus RC F GT3",
             "team": "Blown Head Gasket",
             "class": "Silver"
+        },
+        {
+            "driver": "Geetesh Khatavkar",
+            "points": "125",
+            "car": "Ferrari 488 GT3 Evo",
+            "team": "Plan E Racing III",
+            "class": "Silver"
+        },
+        {
+            "driver": "Anthony Michael",
+            "points": "121",
+            "car": "McLaren 720S GT3 Special",
+            "team": "Pentium Motorsport",
+            "class": "Unrated"
         },
         {
             "driver": "Harrison Channing",
@@ -223,13 +237,6 @@
             "car": "Porsche 991 II GT3 R 2019",
             "team": "Gas Or Die D3",
             "class": "Gold"
-        },
-        {
-            "driver": "Geetesh Khatavkar",
-            "points": "96",
-            "car": "Ferrari 488 GT3 Evo",
-            "team": "Plan E Racing III",
-            "class": "Silver"
         },
         {
             "driver": "Eduardo Rodr\u00c3\u00adguez",
@@ -246,6 +253,20 @@
             "class": "Silver"
         },
         {
+            "driver": "Dan Rebel",
+            "points": "82",
+            "car": "BMW M4 GT3 2022",
+            "team": "Ghost riders racing",
+            "class": "Unrated"
+        },
+        {
+            "driver": "Thomas Greer",
+            "points": "77",
+            "car": "Audi R8 LMS Evo II 2022",
+            "team": "The PIT Maneuver",
+            "class": "Silver"
+        },
+        {
             "driver": "Tommy Dong",
             "points": "69",
             "car": "Mercedes AMG GT3 2020",
@@ -258,27 +279,6 @@
             "car": "McLaren 720S GT3 Special",
             "team": "Smash Bros",
             "class": "Gold"
-        },
-        {
-            "driver": "Anthony Michael",
-            "points": "57",
-            "car": "McLaren 720S GT3 Special",
-            "team": "Pentium Motorsport",
-            "class": "Unrated"
-        },
-        {
-            "driver": "Thomas Greer",
-            "points": "46",
-            "car": "Audi R8 LMS Evo II 2022",
-            "team": "The PIT Maneuver",
-            "class": "Silver"
-        },
-        {
-            "driver": "Dan Rebel",
-            "points": "41",
-            "car": "BMW M4 GT3 2022",
-            "team": "Ghost riders racing",
-            "class": "Unrated"
         },
         {
             "driver": "Hesham Rimzk",
@@ -305,27 +305,31 @@
     "Team Standings": [
         {
             "Team Name": "Apex Hunterz",
-            "Points": "908"
+            "Points": "1100"
         },
         {
             "Team Name": "Baseline Racing ll",
-            "Points": "707"
+            "Points": "833"
         },
         {
             "Team Name": "Afterburner",
-            "Points": "670"
+            "Points": "823"
         },
         {
             "Team Name": "Tyler's Toes",
-            "Points": "613"
+            "Points": "723"
         },
         {
             "Team Name": "Grid Thieves Motorsports III",
-            "Points": "588"
+            "Points": "616"
         },
         {
             "Team Name": "Team McLaren - ToxiicGoose",
-            "Points": "435"
+            "Points": "546"
+        },
+        {
+            "Team Name": "Plan E Racing III",
+            "Points": "478"
         },
         {
             "Team Name": "Gas Or Die D3",
@@ -336,44 +340,40 @@
             "Points": "410"
         },
         {
-            "Team Name": "Plan E Racing III",
-            "Points": "369"
+            "Team Name": "Ghost Rider Racing Omega",
+            "Points": "405"
         },
         {
-            "Team Name": "Ghost Rider Racing Omega",
-            "Points": "362"
+            "Team Name": "Grid Thieves Motorsports Failure",
+            "Points": "391"
+        },
+        {
+            "Team Name": "OMG AMG D3",
+            "Points": "376"
+        },
+        {
+            "Team Name": "Ghost Rider Racing Bravo",
+            "Points": "372"
+        },
+        {
+            "Team Name": "Chicanery Racing",
+            "Points": "370"
+        },
+        {
+            "Team Name": "Paddy's Pub Racing",
+            "Points": "370"
         },
         {
             "Team Name": "Dee Threes",
             "Points": "347"
         },
         {
-            "Team Name": "Paddy's Pub Racing",
-            "Points": "335"
-        },
-        {
-            "Team Name": "OMG AMG D3",
-            "Points": "328"
-        },
-        {
-            "Team Name": "Grid Thieves Motorsports Failure",
-            "Points": "314"
-        },
-        {
-            "Team Name": "Chicanery Racing",
-            "Points": "306"
-        },
-        {
-            "Team Name": "Ghost Rider Racing Bravo",
-            "Points": "282"
+            "Team Name": "Armpit Cats",
+            "Points": "279"
         },
         {
             "Team Name": "Team McLaren Dos",
             "Points": "241"
-        },
-        {
-            "Team Name": "Armpit Cats",
-            "Points": "234"
         },
         {
             "Team Name": "Smash Bros",
@@ -385,23 +385,23 @@
         },
         {
             "Team Name": "The PIT Maneuver",
-            "Points": "137"
+            "Points": "168"
         },
         {
             "Team Name": "Blown Head Gasket",
-            "Points": "98"
+            "Points": "135"
+        },
+        {
+            "Team Name": "Pentium Motorsport",
+            "Points": "121"
         },
         {
             "Team Name": "Get Merc'd Racing",
             "Points": "88"
         },
         {
-            "Team Name": "Pentium Motorsport",
-            "Points": "57"
-        },
-        {
             "Team Name": "Ghost riders racing",
-            "Points": "41"
+            "Points": "82"
         },
         {
             "Team Name": "Flying Fotographic Ferraris D3",
