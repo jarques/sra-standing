@@ -23,7 +23,7 @@
         },
         {
             "driver": "Felipe Vicini",
-            "points": "413",
+            "points": "416",
             "car": "Ferrari 488 GT3 Evo",
             "team": "Grid Thieves Motorsports",
             "class": "Gold"
@@ -86,7 +86,7 @@
         },
         {
             "driver": "Victor Diaz",
-            "points": "270",
+            "points": "273",
             "car": "McLaren 720S GT3 Special",
             "team": "Team McLaren - Chicane Killers",
             "class": "Silver"
@@ -135,7 +135,7 @@
         },
         {
             "driver": "Tyler James",
-            "points": "236",
+            "points": "226",
             "car": "Honda NSX Evo 2019",
             "team": "Badmins",
             "class": "Gold"
@@ -149,21 +149,21 @@
         },
         {
             "driver": "Collin Johnson",
-            "points": "214",
+            "points": "218",
             "car": "McLaren 720S GT3 Special",
             "team": "Full Send Online Racing",
             "class": "Silver"
         },
         {
             "driver": "Andrew Anderson",
-            "points": "209",
+            "points": "211",
             "car": "Porsche 991 II GT3 R 2019",
             "team": "Porsche Motorsport North America",
             "class": "Silver"
         },
         {
             "driver": "Patrick Rust",
-            "points": "209",
+            "points": "203",
             "car": "Porsche 991 II GT3 R 2019",
             "team": "Blind Hen Racing",
             "class": "Gold"
@@ -205,7 +205,7 @@
         },
         {
             "driver": "Austin Gardner",
-            "points": "172",
+            "points": "174",
             "car": "Audi R8 LMS Evo II 2022",
             "team": "Kickin' Asphault",
             "class": "Silver"
@@ -218,18 +218,18 @@
             "class": "Silver"
         },
         {
+            "driver": "Derrick Stack",
+            "points": "166",
+            "car": "Porsche 991 II GT3 R 2019",
+            "team": "Gas Or Die D1",
+            "class": "Silver"
+        },
+        {
             "driver": "Nate Lamlen",
             "points": "164",
             "car": "BMW M4 GT3 2022",
             "team": "Tricolor Racing",
             "class": "Unrated"
-        },
-        {
-            "driver": "Derrick Stack",
-            "points": "164",
-            "car": "Porsche 991 II GT3 R 2019",
-            "team": "Gas Or Die D1",
-            "class": "Silver"
         },
         {
             "driver": "Dae Hee Yun",
@@ -347,7 +347,7 @@
     "Team Standings": [
         {
             "Team Name": "Grid Thieves Motorsports",
-            "Points": "900"
+            "Points": "903"
         },
         {
             "Team Name": "Pillars Racing",
@@ -359,7 +359,7 @@
         },
         {
             "Team Name": "Blind Hen Racing",
-            "Points": "650"
+            "Points": "644"
         },
         {
             "Team Name": "El Diablo & The Magic Man",
@@ -375,23 +375,23 @@
         },
         {
             "Team Name": "Porsche Motorsport North America",
-            "Points": "537"
+            "Points": "539"
         },
         {
             "Team Name": "Full Send Online Racing",
-            "Points": "534"
+            "Points": "538"
         },
         {
             "Team Name": "Plan E Racing",
             "Points": "528"
         },
         {
-            "Team Name": "Dorito Browns AMG",
+            "Team Name": "Team McLaren - Chicane Killers",
             "Points": "507"
         },
         {
-            "Team Name": "Team McLaren - Chicane Killers",
-            "Points": "504"
+            "Team Name": "Dorito Browns AMG",
+            "Points": "507"
         },
         {
             "Team Name": "ANSE3D Racing",
@@ -399,11 +399,7 @@
         },
         {
             "Team Name": "Kickin' Asphault",
-            "Points": "352"
-        },
-        {
-            "Team Name": "Badmins",
-            "Points": "334"
+            "Points": "354"
         },
         {
             "Team Name": "Team McLaren BBC",
@@ -411,7 +407,11 @@
         },
         {
             "Team Name": "Gas Or Die D1",
-            "Points": "325"
+            "Points": "327"
+        },
+        {
+            "Team Name": "Badmins",
+            "Points": "324"
         },
         {
             "Team Name": "Crazy Rabbits Racing Pro",

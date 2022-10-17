@@ -16,7 +16,7 @@
         },
         {
             "driver": "Jo\u00c3\u00a3o Semedo",
-            "points": "485",
+            "points": "480",
             "car": "McLaren 720S GT3 Special",
             "team": "Team McLaren - Pod Racers",
             "class": "Gold"
@@ -85,17 +85,17 @@
             "class": "Gold"
         },
         {
+            "driver": "OMG ItsPav",
+            "points": "288",
+            "car": "Honda NSX Evo 2019",
+            "team": "Cruisin USA Official Team Racing",
+            "class": "Gold"
+        },
+        {
             "driver": "Taylor Molyneux",
             "points": "284",
             "car": "Audi R8 LMS Evo II 2022",
             "team": "Ghost Rider Racing Alpha",
-            "class": "Gold"
-        },
-        {
-            "driver": "OMG ItsPav",
-            "points": "283",
-            "car": "Honda NSX Evo 2019",
-            "team": "Cruisin USA Official Team Racing",
             "class": "Gold"
         },
         {
@@ -191,7 +191,7 @@
         },
         {
             "driver": "Abe Duarte",
-            "points": "160",
+            "points": "158",
             "car": "BMW M4 GT3 2022",
             "team": "Momofine",
             "class": "Silver"
@@ -268,7 +268,7 @@
         },
         {
             "driver": "Dustin Fickert",
-            "points": "111",
+            "points": "113",
             "car": "Audi R8 LMS Evo II 2022",
             "team": "BBC II",
             "class": "Gold"
@@ -358,7 +358,7 @@
         },
         {
             "Team Name": "Team McLaren - Pod Racers",
-            "Points": "876"
+            "Points": "871"
         },
         {
             "Team Name": "Runtime Terror",
@@ -394,7 +394,7 @@
         },
         {
             "Team Name": "Cruisin USA Official Team Racing",
-            "Points": "406"
+            "Points": "411"
         },
         {
             "Team Name": "Oh Boy! Racing Div 2",
@@ -402,7 +402,7 @@
         },
         {
             "Team Name": "BBC II",
-            "Points": "363"
+            "Points": "365"
         },
         {
             "Team Name": "Meatballers",
@@ -422,7 +422,7 @@
         },
         {
             "Team Name": "Momofine",
-            "Points": "300"
+            "Points": "298"
         },
         {
             "Team Name": "Shake N' Bake",
