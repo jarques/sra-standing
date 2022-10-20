@@ -218,7 +218,7 @@
             "class": "Gold"
         },
         {
-            "driver": "\u00ef\u00bd\u0085. .\u00ef\u00bd\u0085. . . . .\u00ef\u00bd\u008c",
+            "driver": "\uff45. .\uff45. . . . .\uff4c",
             "points": "114",
             "car": "Lamborghini Huracan Evo 2019",
             "team": "Marella Instant",
@@ -309,10 +309,10 @@
             "class": "Unrated"
         },
         {
-            "driver": "Leonardo Fran\u00c3\u00a7a",
+            "driver": "Leonardo Fran\u00e7a",
             "points": "27",
             "car": "BMW M4 GT3 2022",
-            "team": "Ti\u00c3\u00a3o Team Racing",
+            "team": "Ti\u00e3o Team Racing",
             "class": "Unrated"
         },
         {
@@ -432,7 +432,7 @@
             "Points": "44"
         },
         {
-            "Team Name": "Ti\u00c3\u00a3o Team Racing",
+            "Team Name": "Ti\u00e3o Team Racing",
             "Points": "27"
         }
     ]
