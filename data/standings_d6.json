@@ -1,0 +1,172 @@
+{
+    "Driver Standings": [
+        {
+            "driver": "Pat Cockcroft",
+            "points": "111",
+            "car": "Porsche 991 II GT3 R 2019",
+            "team": "Spicy Moments Racing Team",
+            "class": "Gold"
+        },
+        {
+            "driver": "Thomas Ma",
+            "points": "101",
+            "car": "McLaren 720S GT3 Special",
+            "team": "Autistic Gearheads",
+            "class": "Unrated"
+        },
+        {
+            "driver": "Harvey Kandola",
+            "points": "92",
+            "car": "BMW M4 GT3 2022",
+            "team": "Ghost Rider Racing - Three Wide",
+            "class": "Gold"
+        },
+        {
+            "driver": "Daniel Martorana",
+            "points": "85",
+            "car": "Mercedes AMG GT3 2020",
+            "team": "Smash or Pass",
+            "class": "Gold"
+        },
+        {
+            "driver": "Nate Allen",
+            "points": "80",
+            "car": "Aston Martin Vantage V8 2019",
+            "team": "Worst Pace Scenario",
+            "class": "Gold"
+        },
+        {
+            "driver": "Lorenzo Ruta",
+            "points": "76",
+            "car": "Porsche 991 II GT3 R 2019",
+            "team": "Spicy Moments Racing Team",
+            "class": "Gold"
+        },
+        {
+            "driver": "Roberto Rosa",
+            "points": "72",
+            "car": "Mercedes AMG GT3 2020",
+            "team": "Parafuseta Motorsports | SMGxBH",
+            "class": "Gold"
+        },
+        {
+            "driver": "Dan McAllister",
+            "points": "68",
+            "car": "BMW M4 GT3 2022",
+            "team": "Ghost Rider Racing - Three Wide",
+            "class": "Gold"
+        },
+        {
+            "driver": "Daniel Beckstead",
+            "points": "64",
+            "car": "Mercedes AMG GT3 2020",
+            "team": "Smash or Pass",
+            "class": "Gold"
+        },
+        {
+            "driver": "Fari Henry",
+            "points": "60",
+            "car": "McLaren 720S GT3 Special",
+            "team": "Badmins - Intergalactic",
+            "class": "Unrated"
+        },
+        {
+            "driver": "Logan Schaeffer",
+            "points": "57",
+            "car": "McLaren 720S GT3 Special",
+            "team": "Autistic Gearheads",
+            "class": "Unrated"
+        },
+        {
+            "driver": "Tim Soyk",
+            "points": "54",
+            "car": "Aston Martin Vantage V8 2019",
+            "team": "Worst Pace Scenario",
+            "class": "Gold"
+        },
+        {
+            "driver": "Anthony Calvi",
+            "points": "51",
+            "car": "McLaren 720S GT3 Special",
+            "team": "Badmins - Intergalactic",
+            "class": "Gold"
+        },
+        {
+            "driver": "Stamati Papadopoulos",
+            "points": "48",
+            "car": "Honda NSX Evo 2019",
+            "team": "Element Racing Team",
+            "class": "Gold"
+        },
+        {
+            "driver": "Cole Compton",
+            "points": "45",
+            "car": "Honda NSX Evo 2019",
+            "team": "Element Racing Team",
+            "class": "Gold"
+        },
+        {
+            "driver": "Phillip Bootsma",
+            "points": "0",
+            "car": "Mercedes AMG GT3 2020",
+            "team": "Parafuseta Motorsports | SMGxBH",
+            "class": "Gold"
+        },
+        {
+            "driver": "The Lastrise",
+            "points": "0",
+            "car": "BMW M4 GT3 2022",
+            "team": "Wall Riders",
+            "class": "Gold"
+        },
+        {
+            "driver": "Kyle McGuinness",
+            "points": "0",
+            "car": "Ferrari 488 GT3 Evo",
+            "team": "indifference GRR",
+            "class": "Gold"
+        }
+    ],
+    "Team Standings": [
+        {
+            "Team Name": "Spicy Moments Racing Team",
+            "Points": "187"
+        },
+        {
+            "Team Name": "Ghost Rider Racing - Three Wide",
+            "Points": "160"
+        },
+        {
+            "Team Name": "Autistic Gearheads",
+            "Points": "158"
+        },
+        {
+            "Team Name": "Smash or Pass",
+            "Points": "149"
+        },
+        {
+            "Team Name": "Worst Pace Scenario",
+            "Points": "134"
+        },
+        {
+            "Team Name": "Badmins - Intergalactic",
+            "Points": "111"
+        },
+        {
+            "Team Name": "Element Racing Team",
+            "Points": "93"
+        },
+        {
+            "Team Name": "Parafuseta Motorsports | SMGxBH",
+            "Points": "72"
+        },
+        {
+            "Team Name": "Wall Riders",
+            "Points": "0"
+        },
+        {
+            "Team Name": "indifference GRR",
+            "Points": "0"
+        }
+    ]
+}

@@ -1,468 +1,402 @@
 {
     "Driver Standings": [
         {
-            "driver": "Nate Specht",
-            "points": "684",
-            "car": "McLaren 720S GT3 Special",
-            "team": "Team McLaren - ISMC",
-            "class": "Gold"
-        },
-        {
-            "driver": "Lo\u00efc Normandeau",
-            "points": "653",
-            "car": "Honda NSX Evo 2019",
-            "team": "Doug's Digits",
-            "class": "Gold"
-        },
-        {
-            "driver": "Jo\u00e3o Semedo",
-            "points": "544",
-            "car": "McLaren 720S GT3 Special",
-            "team": "Team McLaren - Pod Racers",
-            "class": "Gold"
-        },
-        {
-            "driver": "Brandon Sobchyshyn",
-            "points": "507",
-            "car": "Porsche 991 II GT3 R 2019",
-            "team": "Lil' Fellas",
-            "class": "Gold"
-        },
-        {
-            "driver": "Kevin Kovach",
-            "points": "474",
-            "car": "Porsche 991 II GT3 R 2019",
-            "team": "Runtime Terror",
-            "class": "Gold"
-        },
-        {
-            "driver": "Colin Shea",
-            "points": "471",
-            "car": "McLaren 720S GT3 Special",
-            "team": "Team McLaren - Pod Racers",
-            "class": "Gold"
-        },
-        {
-            "driver": "Mike Scott",
-            "points": "390",
-            "car": "Aston Martin Vantage V8 2019",
-            "team": "Redshift Racing",
-            "class": "Gold"
-        },
-        {
-            "driver": "OMG ItsPav",
-            "points": "389",
-            "car": "Honda NSX Evo 2019",
-            "team": "Cruisin USA Official Team Racing",
-            "class": "Gold"
-        },
-        {
-            "driver": "Taylor Molyneux",
-            "points": "364",
-            "car": "Audi R8 LMS Evo II 2022",
-            "team": "Ghost Rider Racing Alpha",
-            "class": "Gold"
-        },
-        {
-            "driver": "Al Lotufo",
-            "points": "360",
-            "car": "Porsche 991 II GT3 R 2019",
-            "team": "Runtime Terror",
-            "class": "Gold"
-        },
-        {
-            "driver": "Rogerio Santos",
-            "points": "338",
-            "car": "McLaren 720S GT3 Special",
-            "team": "Comic Relief Racing",
-            "class": "Silver"
-        },
-        {
-            "driver": "Karl Fredricksen",
-            "points": "332",
-            "car": "Mercedes AMG GT3 2020",
-            "team": "OMG AMG",
-            "class": "Gold"
-        },
-        {
-            "driver": "Matt Morrison",
-            "points": "324",
-            "car": "Audi R8 LMS Evo II 2022",
-            "team": "BBC II",
-            "class": "Gold"
-        },
-        {
-            "driver": "Pauleh Hartman",
-            "points": "316",
-            "car": "McLaren 720S GT3 Special",
-            "team": "Team McLaren - Aperture",
-            "class": "Gold"
-        },
-        {
-            "driver": "Michael Griffith",
-            "points": "302",
-            "car": "Audi R8 LMS Evo II 2022",
-            "team": "Meatballers",
-            "class": "Gold"
-        },
-        {
-            "driver": "Russell Allen",
-            "points": "300",
-            "car": "McLaren 720S GT3 Special",
-            "team": "Lazy Cats Racing",
-            "class": "Gold"
-        },
-        {
-            "driver": "Christian Holmes",
-            "points": "298",
-            "car": "McLaren 720S GT3 Special",
-            "team": "Team McLaren - ISMC",
-            "class": "Gold"
-        },
-        {
-            "driver": "Anthony Rohrer",
-            "points": "286",
-            "car": "Bentley Continental GT3 2018",
-            "team": "Surge Crackhouse Racing",
-            "class": "Silver"
-        },
-        {
-            "driver": "Bailey Kish",
-            "points": "284",
-            "car": "Audi R8 LMS Evo II 2022",
-            "team": "Ghost Rider Racing Alpha",
-            "class": "Gold"
-        },
-        {
-            "driver": "Jess Osborn",
-            "points": "258",
-            "car": "Porsche 991 II GT3 R 2019",
-            "team": "917 Project",
-            "class": "Gold"
-        },
-        {
-            "driver": "Andre Lloyd",
-            "points": "254",
-            "car": "Porsche 991 II GT3 R 2019",
-            "team": "Online Racing Collective",
-            "class": "Silver"
-        },
-        {
-            "driver": "Austin Cobb",
-            "points": "250",
-            "car": "Aston Martin Vantage V8 2019",
-            "team": "Oh Boy! Racing Div 2",
-            "class": "Gold"
-        },
-        {
-            "driver": "Robert Almeida",
-            "points": "248",
-            "car": "Lexus RC F GT3",
-            "team": "Podium Hunters",
-            "class": "Silver"
-        },
-        {
-            "driver": "Super Dave",
-            "points": "243",
-            "car": "Aston Martin Vantage V8 2019",
-            "team": "Redshift Racing",
-            "class": "Silver"
-        },
-        {
-            "driver": "Fabiano Pancheniak",
-            "points": "240",
-            "car": "Lamborghini Huracan Evo 2019",
-            "team": "Squadra Corse",
-            "class": "Silver"
-        },
-        {
-            "driver": "Abe Duarte",
-            "points": "201",
+            "driver": "Mr Sir",
+            "points": "111",
             "car": "BMW M4 GT3 2022",
-            "team": "Momofine",
+            "team": "Bimmer Bois Worldwide",
             "class": "Silver"
         },
         {
-            "driver": "Peter Reynolds",
-            "points": "185",
-            "car": "McLaren 720S GT3 Special",
-            "team": "Lazy Cats Racing",
-            "class": "Gold"
-        },
-        {
-            "driver": "John Foguth",
-            "points": "170",
-            "car": "McLaren 720S GT3 Special",
-            "team": "Shake N' Bake",
-            "class": "Gold"
-        },
-        {
-            "driver": "Austin Sawyer",
-            "points": "154",
-            "car": "Honda NSX Evo 2019",
-            "team": "Doug's Digits",
-            "class": "Gold"
-        },
-        {
-            "driver": "Fire Queso",
-            "points": "154",
-            "car": "Honda NSX Evo 2019",
-            "team": "Cruisin USA Official Team Racing",
-            "class": "Silver"
-        },
-        {
-            "driver": "Lucas Krienke",
-            "points": "153",
-            "car": "Porsche 991 II GT3 R 2019",
-            "team": "Lil' Fellas",
-            "class": "Silver"
-        },
-        {
-            "driver": "Allain Hachey",
-            "points": "152",
-            "car": "Aston Martin Vantage V8 2019",
-            "team": "Oh Boy! Racing Div 2",
-            "class": "Gold"
-        },
-        {
-            "driver": "Caleb Craig",
-            "points": "152",
+            "driver": "Joe Wong",
+            "points": "100",
             "car": "BMW M4 GT3 2022",
-            "team": "Team Superfriends 2 - Electric Boogaloo",
-            "class": "Unrated"
-        },
-        {
-            "driver": "Nathan Schaefer",
-            "points": "152",
-            "car": "McLaren 720S GT3 Special",
-            "team": "Team McLaren - Aperture",
-            "class": "Silver"
-        },
-        {
-            "driver": "Felix Paillant",
-            "points": "149",
-            "car": "Porsche 991 II GT3 R 2019",
-            "team": "Online Racing Collective",
-            "class": "Silver"
-        },
-        {
-            "driver": "Anim Friday",
-            "points": "143",
-            "car": "Lexus RC F GT3",
-            "team": "Podium Hunters",
-            "class": "Silver"
-        },
-        {
-            "driver": "Mark Sutherland",
-            "points": "140",
-            "car": "BMW M4 GT3 2022",
-            "team": "Momofine",
-            "class": "Gold"
-        },
-        {
-            "driver": "Land Shark",
-            "points": "118",
-            "car": "McLaren 720S GT3 Special",
-            "team": "Comic Relief Racing",
-            "class": "Silver"
-        },
-        {
-            "driver": "Clark Gould",
-            "points": "116",
-            "car": "McLaren 720S GT3 Special",
-            "team": "Grid Thieves Motorsports II",
-            "class": "Silver"
-        },
-        {
-            "driver": "Dustin Fickert",
-            "points": "113",
-            "car": "Audi R8 LMS Evo II 2022",
-            "team": "BBC II",
-            "class": "Gold"
-        },
-        {
-            "driver": "Kyle Turner",
-            "points": "109",
-            "car": "McLaren 720S GT3 Special",
-            "team": "Shake N' Bake",
+            "team": "Ghost Rider Racing - Twilight",
             "class": "Silver"
         },
         {
             "driver": "Pawel Kreska",
-            "points": "106",
-            "car": "Porsche 991 II GT3 R 2019",
+            "points": "92",
+            "car": "McLaren 720S GT3 Special",
             "team": "MOJE Auto",
-            "class": "Unrated"
-        },
-        {
-            "driver": "Carlos Guzman",
-            "points": "72",
-            "car": "Honda NSX Evo 2019",
-            "team": "Crazy Rabbits Racing",
             "class": "Gold"
         },
         {
-            "driver": "Dominik Jaworski",
-            "points": "68",
-            "car": "Ferrari 488 GT3 Evo",
-            "team": "Flying Fotographic Ferraris D2",
-            "class": "Silver"
+            "driver": "Colin Shea",
+            "points": "85",
+            "car": "McLaren 720S GT3 Special",
+            "team": "Champion Motorsports - Pod Racers",
+            "class": "Gold"
         },
         {
-            "driver": "Jose Guzman",
-            "points": "66",
-            "car": "Honda NSX Evo 2019",
-            "team": "Crazy Rabbits Racing",
-            "class": "Silver"
+            "driver": "Jon Crown",
+            "points": "81",
+            "car": "McLaren 720S GT3 Special",
+            "team": "Champion Motorsports - Pod Racers",
+            "class": "Unrated"
         },
         {
-            "driver": "Chris Lorenzo",
-            "points": "58",
+            "driver": "Taylor Molyneux",
+            "points": "76",
             "car": "Audi R8 LMS Evo II 2022",
-            "team": "Meatballers",
+            "team": "Ghost Rider Racing- BendiBrew",
             "class": "Silver"
         },
         {
-            "driver": "Toma Constantin",
-            "points": "29",
-            "car": "Ferrari 488 GT3 Evo",
-            "team": "Plan E Racing II",
+            "driver": "Mike Scott",
+            "points": "72",
+            "car": "Aston Martin Vantage V8 2019",
+            "team": "Comic Racing - SuperScott",
             "class": "Gold"
         },
         {
-            "driver": "Lester Banks",
-            "points": "9",
-            "car": "Porsche 991 II GT3 R 2019",
-            "team": "917 Project",
-            "class": "Unrated"
-        },
-        {
-            "driver": "Ramez Khayat",
-            "points": "0",
-            "car": "Ferrari 488 GT3 Evo",
-            "team": "Flying Fotographic Ferraris D2",
+            "driver": "Mert Mihci",
+            "points": "68",
+            "car": "BMW M4 GT3 2022",
+            "team": "Comic Racing - BMW",
             "class": "Silver"
         },
         {
-            "driver": "Damien Martinez",
-            "points": "0",
+            "driver": "Doug Lee",
+            "points": "64",
+            "car": "BMW M4 GT3 2022",
+            "team": "Ghost Rider Racing - Twilight",
+            "class": "Silver"
+        },
+        {
+            "driver": "Austin Gardner",
+            "points": "60",
+            "car": "Lexus RC F GT3",
+            "team": "Kickin' Asphalt",
+            "class": "Gold"
+        },
+        {
+            "driver": "Josh Damiani",
+            "points": "57",
+            "car": "Aston Martin Vantage V8 2019",
+            "team": "Badmin Booty Hunters",
+            "class": "Gold"
+        },
+        {
+            "driver": "Pauleh Hartman",
+            "points": "54",
+            "car": "Aston Martin Vantage V8 2019",
+            "team": "Champion Motorsports - Aperture",
+            "class": "Gold"
+        },
+        {
+            "driver": "Bailey Kish",
+            "points": "51",
+            "car": "Audi R8 LMS Evo II 2022",
+            "team": "Ghost Rider Racing- BendiBrew",
+            "class": "Gold"
+        },
+        {
+            "driver": "Russell Allen",
+            "points": "48",
             "car": "Ferrari 488 GT3 Evo",
-            "team": "Plan E Racing II",
+            "team": "Plan E Racing - Coca-Cola Starlight",
+            "class": "Silver"
+        },
+        {
+            "driver": "Austin Sawyer",
+            "points": "45",
+            "car": "Aston Martin Vantage V8 2019",
+            "team": "Badmin Booty Hunters",
+            "class": "Silver"
+        },
+        {
+            "driver": "Al Lotufo",
+            "points": "43",
+            "car": "Porsche 991 II GT3 R 2019",
+            "team": "Equipo de Los Muertos",
+            "class": "Gold"
+        },
+        {
+            "driver": "Kevin Kovach",
+            "points": "41",
+            "car": "Porsche 991 II GT3 R 2019",
+            "team": "Equipo de Los Muertos",
+            "class": "Gold"
+        },
+        {
+            "driver": "Super Dave",
+            "points": "39",
+            "car": "Aston Martin Vantage V8 2019",
+            "team": "Comic Racing - SuperScott",
+            "class": "Silver"
+        },
+        {
+            "driver": "Nick Wagner",
+            "points": "37",
+            "car": "Lexus RC F GT3",
+            "team": "Kickin' Asphalt",
+            "class": "Gold"
+        },
+        {
+            "driver": "Curtis Lee",
+            "points": "35",
+            "car": "Lexus RC F GT3",
+            "team": "Save Second Base Racing",
+            "class": "Silver"
+        },
+        {
+            "driver": "Roby Toty",
+            "points": "33",
+            "car": "Mercedes AMG GT3 2020",
+            "team": "Apex Hunterz",
+            "class": "Silver"
+        },
+        {
+            "driver": "Turner Johnson",
+            "points": "31",
+            "car": "Mercedes AMG GT3 2020",
+            "team": "ZDR Boyz - Blackbird",
+            "class": "Silver"
+        },
+        {
+            "driver": "Nathan Schaefer",
+            "points": "29",
+            "car": "Aston Martin Vantage V8 2019",
+            "team": "Champion Motorsports - Aperture",
+            "class": "Silver"
+        },
+        {
+            "driver": "Ron FLO",
+            "points": "27",
+            "car": "Mercedes AMG GT3 2020",
+            "team": "Apex Hunterz",
+            "class": "Silver"
+        },
+        {
+            "driver": "Matt Morrison",
+            "points": "25",
+            "car": "Lexus RC F GT3",
+            "team": "South Harmon Institute of Technology",
+            "class": "Gold"
+        },
+        {
+            "driver": "Jason Allen",
+            "points": "23",
+            "car": "Ferrari 488 GT3 Evo",
+            "team": "Plan E Racing - Mexican Coca-Cola",
+            "class": "Gold"
+        },
+        {
+            "driver": "Eric Boardman",
+            "points": "21",
+            "car": "Aston Martin Vantage V8 2019",
+            "team": "Badmins AMR",
+            "class": "Gold"
+        },
+        {
+            "driver": "Alex Chilcutt",
+            "points": "19",
+            "car": "Honda NSX Evo 2019",
+            "team": "Badmins - Spooky Scary Skeletons",
+            "class": "Silver"
+        },
+        {
+            "driver": "DJ Watts",
+            "points": "17",
+            "car": "Lexus RC F GT3",
+            "team": "Save Second Base Racing",
+            "class": "Silver"
+        },
+        {
+            "driver": "Diego Navarro",
+            "points": "15",
+            "car": "Ferrari 488 GT3 Evo",
+            "team": "Plan E Racing - Mexican Coca-Cola",
+            "class": "Gold"
+        },
+        {
+            "driver": "Jack Polyak",
+            "points": "13",
+            "car": "Aston Martin Vantage V8 2019",
+            "team": "Grid Thieves Motorsports D2",
+            "class": "Silver"
+        },
+        {
+            "driver": "Michael Li",
+            "points": "11",
+            "car": "Mercedes AMG GT3 2020",
+            "team": "ZDR Boyz - Blackbird",
+            "class": "Silver"
+        },
+        {
+            "driver": "Fire Queso",
+            "points": "9",
+            "car": "Honda NSX Evo 2019",
+            "team": "Ghost Rider Racing - Shenanigans",
+            "class": "Silver"
+        },
+        {
+            "driver": "Armands Petrovics",
+            "points": "7",
+            "car": "Mercedes AMG GT3 2020",
+            "team": "ZDR Boyz - Raptor",
+            "class": "Silver"
+        },
+        {
+            "driver": "Nate Rodger",
+            "points": "6",
+            "car": "Mercedes AMG GT3 2020",
+            "team": "ZDR Boyz - Raptor",
+            "class": "Silver"
+        },
+        {
+            "driver": "Fabiano Pancheniak",
+            "points": "5",
+            "car": "McLaren 720S GT3 Special",
+            "team": "MOJE Auto",
+            "class": "Silver"
+        },
+        {
+            "driver": "Dustin Fickert",
+            "points": "4",
+            "car": "Lexus RC F GT3",
+            "team": "South Harmon Institute of Technology",
+            "class": "Silver"
+        },
+        {
+            "driver": "Peter Reynolds",
+            "points": "3",
+            "car": "Ferrari 488 GT3 Evo",
+            "team": "Plan E Racing - Coca-Cola Starlight",
+            "class": "Silver"
+        },
+        {
+            "driver": "Felipe Botella",
+            "points": "2",
+            "car": "Aston Martin Vantage V8 2019",
+            "team": "Grid Thieves Motorsports D2",
+            "class": "Silver"
+        },
+        {
+            "driver": "Land Shark",
+            "points": "1",
+            "car": "BMW M4 GT3 2022",
+            "team": "Comic Racing - BMW",
+            "class": "Silver"
+        },
+        {
+            "driver": "Karl Fredricksen",
+            "points": "0",
+            "car": "BMW M4 GT3 2022",
+            "team": "Bimmer Bois Worldwide",
+            "class": "Gold"
+        },
+        {
+            "driver": "Stephen Smalley",
+            "points": "0",
+            "car": "Honda NSX Evo 2019",
+            "team": "Ghost Rider Racing - Shenanigans",
+            "class": "Silver"
+        },
+        {
+            "driver": "Michael Jeffries",
+            "points": "0",
+            "car": "Aston Martin Vantage V8 2019",
+            "team": "Badmins AMR",
+            "class": "Gold"
+        },
+        {
+            "driver": "Loukas Klentzeris",
+            "points": "0",
+            "car": "Honda NSX Evo 2019",
+            "team": "Badmins - Spooky Scary Skeletons",
             "class": "Silver"
         }
     ],
     "Team Standings": [
         {
-            "Team Name": "Team McLaren - ISMC",
-            "Points": "1025"
+            "Team Name": "Champion Motorsports - Pod Racers",
+            "Points": "166"
         },
         {
-            "Team Name": "Team McLaren - Pod Racers",
-            "Points": "1020"
+            "Team Name": "Ghost Rider Racing - Twilight",
+            "Points": "164"
         },
         {
-            "Team Name": "Runtime Terror",
-            "Points": "855"
+            "Team Name": "Ghost Rider Racing- BendiBrew",
+            "Points": "127"
         },
         {
-            "Team Name": "Doug's Digits",
-            "Points": "814"
+            "Team Name": "Bimmer Bois Worldwide",
+            "Points": "111"
         },
         {
-            "Team Name": "Lil' Fellas",
-            "Points": "660"
+            "Team Name": "Comic Racing - SuperScott",
+            "Points": "111"
         },
         {
-            "Team Name": "Ghost Rider Racing Alpha",
-            "Points": "648"
-        },
-        {
-            "Team Name": "Redshift Racing",
-            "Points": "642"
-        },
-        {
-            "Team Name": "Cruisin USA Official Team Racing",
-            "Points": "543"
-        },
-        {
-            "Team Name": "Lazy Cats Racing",
-            "Points": "485"
-        },
-        {
-            "Team Name": "Team McLaren - Aperture",
-            "Points": "475"
-        },
-        {
-            "Team Name": "Comic Relief Racing",
-            "Points": "456"
-        },
-        {
-            "Team Name": "BBC II",
-            "Points": "437"
-        },
-        {
-            "Team Name": "Podium Hunters",
-            "Points": "405"
-        },
-        {
-            "Team Name": "Online Racing Collective",
-            "Points": "403"
-        },
-        {
-            "Team Name": "Oh Boy! Racing Div 2",
-            "Points": "402"
-        },
-        {
-            "Team Name": "Meatballers",
-            "Points": "360"
-        },
-        {
-            "Team Name": "Momofine",
-            "Points": "341"
-        },
-        {
-            "Team Name": "OMG AMG",
-            "Points": "332"
-        },
-        {
-            "Team Name": "Surge Crackhouse Racing",
-            "Points": "286"
-        },
-        {
-            "Team Name": "Shake N' Bake",
-            "Points": "279"
-        },
-        {
-            "Team Name": "917 Project",
-            "Points": "267"
-        },
-        {
-            "Team Name": "Squadra Corse",
-            "Points": "240"
-        },
-        {
-            "Team Name": "Team Superfriends 2 - Electric Boogaloo",
-            "Points": "152"
-        },
-        {
-            "Team Name": "Crazy Rabbits Racing",
-            "Points": "138"
-        },
-        {
-            "Team Name": "Grid Thieves Motorsports II",
-            "Points": "116"
+            "Team Name": "Badmin Booty Hunters",
+            "Points": "102"
         },
         {
             "Team Name": "MOJE Auto",
-            "Points": "106"
+            "Points": "97"
         },
         {
-            "Team Name": "Flying Fotographic Ferraris D2",
-            "Points": "68"
+            "Team Name": "Kickin' Asphalt",
+            "Points": "97"
         },
         {
-            "Team Name": "Plan E Racing II",
+            "Team Name": "Equipo de Los Muertos",
+            "Points": "84"
+        },
+        {
+            "Team Name": "Champion Motorsports - Aperture",
+            "Points": "83"
+        },
+        {
+            "Team Name": "Comic Racing - BMW",
+            "Points": "69"
+        },
+        {
+            "Team Name": "Apex Hunterz",
+            "Points": "60"
+        },
+        {
+            "Team Name": "Save Second Base Racing",
+            "Points": "52"
+        },
+        {
+            "Team Name": "Plan E Racing - Coca-Cola Starlight",
+            "Points": "51"
+        },
+        {
+            "Team Name": "ZDR Boyz - Blackbird",
+            "Points": "42"
+        },
+        {
+            "Team Name": "Plan E Racing - Mexican Coca-Cola",
+            "Points": "38"
+        },
+        {
+            "Team Name": "South Harmon Institute of Technology",
             "Points": "29"
+        },
+        {
+            "Team Name": "Badmins AMR",
+            "Points": "21"
+        },
+        {
+            "Team Name": "Badmins - Spooky Scary Skeletons",
+            "Points": "19"
+        },
+        {
+            "Team Name": "Grid Thieves Motorsports D2",
+            "Points": "15"
+        },
+        {
+            "Team Name": "ZDR Boyz - Raptor",
+            "Points": "13"
+        },
+        {
+            "Team Name": "Ghost Rider Racing - Shenanigans",
+            "Points": "9"
         }
     ]
 }
