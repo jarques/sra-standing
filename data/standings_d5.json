@@ -1,11 +1,109 @@
 {
     "Driver Standings": [
         {
-            "driver": "Austin Whitescarver",
-            "points": "110",
-            "car": "Audi R8 LMS Evo II 2022",
-            "team": "Grid Thieves Motorsports D5",
+            "driver": "Jacob Zitko",
+            "points": "209",
+            "car": "Aston Martin Vantage V8 2019",
+            "team": "The Lightning Sharks",
+            "class": "Silver"
+        },
+        {
+            "driver": "Ein Byron",
+            "points": "201",
+            "car": "Aston Martin Vantage V8 2019",
+            "team": "Virtual Safety Car",
+            "class": "Silver"
+        },
+        {
+            "driver": "Joe Gualtieri",
+            "points": "177",
+            "car": "Porsche 991 II GT3 R 2019",
+            "team": "VDay",
+            "class": "Silver"
+        },
+        {
+            "driver": "Panzo Rigatoni",
+            "points": "156",
+            "car": "Ferrari 488 GT3 Evo",
+            "team": "Stardust Competizione",
             "class": "Gold"
+        },
+        {
+            "driver": "Harrison Channing",
+            "points": "153",
+            "car": "BMW M4 GT3 2022",
+            "team": "Chive & Onion Racing",
+            "class": "Gold"
+        },
+        {
+            "driver": "Joe Shabadu",
+            "points": "142",
+            "car": "Aston Martin Vantage V8 2019",
+            "team": "The Lightning Sharks",
+            "class": "Gold"
+        },
+        {
+            "driver": "Steven Brule",
+            "points": "136",
+            "car": "Mercedes AMG GT3 2020",
+            "team": "SMGxBH Sometimes Maybe Blind",
+            "class": "Silver"
+        },
+        {
+            "driver": "Dan Meyer",
+            "points": "134",
+            "car": "Mercedes AMG GT3 2020",
+            "team": "SMGxBH Sometimes Maybe Blind",
+            "class": "Silver"
+        },
+        {
+            "driver": "Cube Master",
+            "points": "131",
+            "car": "McLaren 720S GT3 Special",
+            "team": "Ghost Rider Racing - Cheaper Than Therapy",
+            "class": "Silver"
+        },
+        {
+            "driver": "Klaus Conn",
+            "points": "130",
+            "car": "McLaren 720S GT3 Special",
+            "team": "Makers Motorsport",
+            "class": "Silver"
+        },
+        {
+            "driver": "Shaun Daniels (Liquid)",
+            "points": "118",
+            "car": "McLaren 720S GT3 Special",
+            "team": "Ghost Rider Racing - Cheaper Than Therapy",
+            "class": "Silver"
+        },
+        {
+            "driver": "Dan Rufus",
+            "points": "114",
+            "car": "McLaren 720S GT3 Special",
+            "team": "Bitch, Peas",
+            "class": "Silver"
+        },
+        {
+            "driver": "Richard Schulze",
+            "points": "112",
+            "car": "Ferrari 488 GT3 Evo",
+            "team": "FIAT Panda Racing",
+            "class": "Gold"
+        },
+        {
+            "driver": "Sean Williams",
+            "points": "110",
+            "car": "McLaren 720S GT3 Special",
+            "team": "CEL",
+            "class": "Unrated"
+        },
+        {
+            "driver": "Tony Swann",
+            "points": "105",
+            "car": "McLaren 720S GT3 Special",
+            "team": "Makers Motorsport",
+            "class": "Silver"
         },
         {
             "driver": "Eduardo Rodr\u00edguez",
@@ -15,10 +113,31 @@
             "class": "Silver"
         },
         {
-            "driver": "Justin Mackechnie",
-            "points": "92",
-            "car": "BMW M4 GT3 2022",
-            "team": "Ghost Rider Racing - Ohio",
+            "driver": "Philip Menzies",
+            "points": "97",
+            "car": "Mercedes AMG GT3 2020",
+            "team": "Kangamoose Racing -Badmins",
+            "class": "Silver"
+        },
+        {
+            "driver": "Patches O'Hoolihan",
+            "points": "95",
+            "car": "Honda NSX Evo 2019",
+            "team": "Ghost Rider Racing - Lethal Dodgeballs",
+            "class": "Silver"
+        },
+        {
+            "driver": "Ren Aoki",
+            "points": "89",
+            "car": "Ferrari 488 GT3 Evo",
+            "team": "Baseline Racing - Tango",
+            "class": "Gold"
+        },
+        {
+            "driver": "Ben Roberts",
+            "points": "87",
+            "car": "McLaren 720S GT3 Special",
+            "team": "Wonderland Racing",
             "class": "Silver"
         },
         {
@@ -29,38 +148,52 @@
             "class": "Gold"
         },
         {
-            "driver": "Two Dragons",
+            "driver": "Conor Farrell",
+            "points": "82",
+            "car": "McLaren 720S GT3 Special",
+            "team": "Wonderland Racing",
+            "class": "Silver"
+        },
+        {
+            "driver": "Pat Cockcroft",
             "points": "80",
-            "car": "Ferrari 488 GT3 Evo",
-            "team": "FIAT Panda Racing",
+            "car": "Porsche 991 II GT3 R 2019",
+            "team": "Spicy Moments Racing Team D5",
             "class": "Silver"
         },
         {
-            "driver": "Martin Riggs",
-            "points": "76",
-            "car": "Honda NSX Evo 2019",
-            "team": "Ghost Rider Racing - Lethal Dodgeballs",
+            "driver": "Jordan Kimball",
+            "points": "77",
+            "car": "McLaren 720S GT3 Special",
+            "team": "8Loko Racing",
             "class": "Gold"
         },
         {
-            "driver": "Ein Byron",
-            "points": "72",
-            "car": "Aston Martin Vantage V8 2019",
-            "team": "Virtual Safety Car",
+            "driver": "Noah Fong",
+            "points": "71",
+            "car": "McLaren 720S GT3 Special",
+            "team": "8Loko Racing",
+            "class": "Gold"
+        },
+        {
+            "driver": "Stephen Pellerin",
+            "points": "70",
+            "car": "Ferrari 488 GT3 Evo",
+            "team": "Plan E racing",
             "class": "Silver"
         },
         {
-            "driver": "Harrison Channing",
-            "points": "68",
-            "car": "BMW M4 GT3 2022",
-            "team": "Chive & Onion Racing",
-            "class": "Gold"
+            "driver": "Alex Krochik",
+            "points": "66",
+            "car": "McLaren 720S GT3 Special",
+            "team": "CEL",
+            "class": "Unrated"
         },
         {
-            "driver": "Richard Schulze",
-            "points": "64",
+            "driver": "Gnar Lee",
+            "points": "66",
             "car": "Ferrari 488 GT3 Evo",
-            "team": "FIAT Panda Racing",
+            "team": "Stardust Competizione",
             "class": "Gold"
         },
         {
@@ -71,10 +204,17 @@
             "class": "Gold"
         },
         {
-            "driver": "Panzo Rigatoni",
+            "driver": "Stephanie Fisher",
+            "points": "58",
+            "car": "McLaren 720S GT3 Special",
+            "team": "Bitch, Peas",
+            "class": "Silver"
+        },
+        {
+            "driver": "Jerry Finlke",
             "points": "57",
-            "car": "Ferrari 488 GT3 Evo",
-            "team": "Stardust Competizione",
+            "car": "Porsche 991 II GT3 R 2019",
+            "team": "VDay",
             "class": "Gold"
         },
         {
@@ -85,6 +225,13 @@
             "class": "Silver"
         },
         {
+            "driver": "Harold MacDonald",
+            "points": "54",
+            "car": "Aston Martin Vantage V8 2019",
+            "team": "Asston Fartin' META Group",
+            "class": "Gold"
+        },
+        {
             "driver": "Jesse Fowler",
             "points": "51",
             "car": "McLaren 720S GT3 Special",
@@ -92,286 +239,148 @@
             "class": "Silver"
         },
         {
-            "driver": "Cube Master",
-            "points": "48",
-            "car": "McLaren 720S GT3 Special",
-            "team": "Cheaper Than Therapy",
-            "class": "Silver"
-        },
-        {
-            "driver": "Tony Swann",
-            "points": "45",
-            "car": "McLaren 720S GT3 Special",
-            "team": "Makers Motorsport",
-            "class": "Silver"
-        },
-        {
-            "driver": "Dan Meyer",
-            "points": "43",
-            "car": "Mercedes AMG GT3 2020",
-            "team": "SMGxBH Sometimes Maybe Blind",
-            "class": "Silver"
-        },
-        {
-            "driver": "Jacob Zitko",
-            "points": "41",
-            "car": "Aston Martin Vantage V8 2019",
-            "team": "The Lightning Sharks",
-            "class": "Silver"
-        },
-        {
-            "driver": "Steven Brule",
-            "points": "39",
-            "car": "Mercedes AMG GT3 2020",
-            "team": "SMGxBH Sometimes Maybe Blind",
-            "class": "Silver"
-        },
-        {
-            "driver": "Joe Gualtieri",
-            "points": "37",
-            "car": "Porsche 991 II GT3 R 2019",
-            "team": "VDay",
-            "class": "Silver"
-        },
-        {
-            "driver": "Philip Menzies",
-            "points": "35",
-            "car": "Mercedes AMG GT3 2020",
-            "team": "Kangamoose Racing -Badmins",
-            "class": "Silver"
-        },
-        {
-            "driver": "Shaun Daniels (Liquid)",
-            "points": "33",
-            "car": "McLaren 720S GT3 Special",
-            "team": "Cheaper Than Therapy",
-            "class": "Silver"
-        },
-        {
-            "driver": "Klaus Conn",
-            "points": "31",
-            "car": "McLaren 720S GT3 Special",
-            "team": "Makers Motorsport",
-            "class": "Silver"
-        },
-        {
-            "driver": "Patches O'Hoolihan",
-            "points": "29",
-            "car": "Honda NSX Evo 2019",
-            "team": "Ghost Rider Racing - Lethal Dodgeballs",
-            "class": "Silver"
-        },
-        {
-            "driver": "Noah Fong",
-            "points": "27",
-            "car": "McLaren 720S GT3 Special",
-            "team": "8Loko Racing",
-            "class": "Gold"
-        },
-        {
-            "driver": "Stephanie Fisher",
-            "points": "25",
-            "car": "McLaren 720S GT3 Special",
-            "team": "Bitch, Peas",
-            "class": "Silver"
-        },
-        {
-            "driver": "Jak Patch",
-            "points": "23",
-            "car": "BMW M4 GT3 2022",
-            "team": "Ghost Rider Racing - Ohio",
-            "class": "Silver"
-        },
-        {
-            "driver": "Gnar Lee",
-            "points": "21",
-            "car": "Ferrari 488 GT3 Evo",
-            "team": "Stardust Competizione",
-            "class": "Gold"
-        },
-        {
-            "driver": "Joe Shabadu",
-            "points": "19",
-            "car": "Aston Martin Vantage V8 2019",
-            "team": "The Lightning Sharks",
-            "class": "Gold"
-        },
-        {
-            "driver": "Jordan Kimball",
-            "points": "17",
-            "car": "McLaren 720S GT3 Special",
-            "team": "8Loko Racing",
-            "class": "Gold"
-        },
-        {
-            "driver": "Jerry Finlke",
-            "points": "15",
-            "car": "Porsche 991 II GT3 R 2019",
-            "team": "VDay",
-            "class": "Gold"
-        },
-        {
             "driver": "Joe S",
-            "points": "13",
+            "points": "46",
             "car": "BMW M4 GT3 2022",
             "team": "Chive & Onion Racing",
             "class": "Gold"
         },
         {
-            "driver": "Ben Roberts",
-            "points": "11",
-            "car": "McLaren 720S GT3 Special",
-            "team": "Wonderland Racing",
-            "class": "Silver"
-        },
-        {
-            "driver": "Ren Aoki",
-            "points": "9",
+            "driver": "Sam Harris",
+            "points": "46",
             "car": "Ferrari 488 GT3 Evo",
             "team": "Baseline Racing - Tango",
-            "class": "Gold"
-        },
-        {
-            "driver": "Kevin Unda",
-            "points": "7",
-            "car": "Aston Martin Vantage V8 2019",
-            "team": "Virtual Safety Car",
-            "class": "Gold"
-        },
-        {
-            "driver": "Stephen Pellerin",
-            "points": "6",
-            "car": "Ferrari 488 GT3 Evo",
-            "team": "Plan E racing",
             "class": "Silver"
-        },
-        {
-            "driver": "Dan Rufus",
-            "points": "5",
-            "car": "McLaren 720S GT3 Special",
-            "team": "Bitch, Peas",
-            "class": "Silver"
-        },
-        {
-            "driver": "Harold MacDonald",
-            "points": "4",
-            "car": "Aston Martin Vantage V8 2019",
-            "team": "Asston Fartin' META Group",
-            "class": "Gold"
         },
         {
             "driver": "Spencer Walsh",
-            "points": "3",
+            "points": "42",
             "car": "Audi R8 LMS Evo II 2022",
             "team": "Grid Thieves Motorsports D5",
             "class": "Gold"
         },
         {
-            "driver": "Sam Harris",
-            "points": "2",
-            "car": "Ferrari 488 GT3 Evo",
-            "team": "Baseline Racing - Tango",
+            "driver": "Jak Patch",
+            "points": "38",
+            "car": "BMW M4 GT3 2022",
+            "team": "Ghost Rider Racing - Ohio",
             "class": "Silver"
         },
         {
-            "driver": "Kelvin Lau",
-            "points": "1",
+            "driver": "Alex Chunk",
+            "points": "29",
             "car": "Aston Martin Vantage V8 2019",
-            "team": "Asston Fartin' META Group",
-            "class": "Gold"
+            "team": "Rum Runners",
+            "class": "Silver"
         },
         {
-            "driver": "Conor Farrell",
+            "driver": "Thomas Ma",
             "points": "0",
             "car": "McLaren 720S GT3 Special",
-            "team": "Wonderland Racing",
-            "class": "Silver"
+            "team": "NHTSA",
+            "class": "Unrated"
         }
     ],
     "Team Standings": [
+        {
+            "Team Name": "The Lightning Sharks",
+            "Points": "351"
+        },
+        {
+            "Team Name": "SMGxBH Sometimes Maybe Blind",
+            "Points": "270"
+        },
+        {
+            "Team Name": "Ghost Rider Racing - Cheaper Than Therapy",
+            "Points": "249"
+        },
+        {
+            "Team Name": "Makers Motorsport",
+            "Points": "235"
+        },
+        {
+            "Team Name": "VDay",
+            "Points": "234"
+        },
+        {
+            "Team Name": "Stardust Competizione",
+            "Points": "222"
+        },
+        {
+            "Team Name": "Virtual Safety Car",
+            "Points": "201"
+        },
+        {
+            "Team Name": "Chive & Onion Racing",
+            "Points": "199"
+        },
         {
             "Team Name": "Oh Fudge!",
             "Points": "185"
         },
         {
-            "Team Name": "FIAT Panda Racing",
-            "Points": "144"
+            "Team Name": "CEL",
+            "Points": "176"
         },
         {
-            "Team Name": "Ghost Rider Racing - Ohio",
-            "Points": "115"
+            "Team Name": "Bitch, Peas",
+            "Points": "172"
         },
         {
-            "Team Name": "Grid Thieves Motorsports D5",
-            "Points": "113"
-        },
-        {
-            "Team Name": "Ghost Rider Racing - Lethal Dodgeballs",
-            "Points": "105"
+            "Team Name": "Wonderland Racing",
+            "Points": "169"
         },
         {
             "Team Name": "Kangamoose Racing -Badmins",
-            "Points": "95"
+            "Points": "157"
         },
         {
-            "Team Name": "SMGxBH Sometimes Maybe Blind",
-            "Points": "82"
+            "Team Name": "8Loko Racing",
+            "Points": "148"
         },
         {
-            "Team Name": "Cheaper Than Therapy",
-            "Points": "81"
-        },
-        {
-            "Team Name": "Chive & Onion Racing",
-            "Points": "81"
-        },
-        {
-            "Team Name": "Virtual Safety Car",
-            "Points": "79"
-        },
-        {
-            "Team Name": "Stardust Competizione",
-            "Points": "78"
-        },
-        {
-            "Team Name": "Makers Motorsport",
-            "Points": "76"
-        },
-        {
-            "Team Name": "The Lightning Sharks",
-            "Points": "60"
+            "Team Name": "Baseline Racing - Tango",
+            "Points": "135"
         },
         {
             "Team Name": "Plan E racing",
-            "Points": "60"
+            "Points": "124"
         },
         {
-            "Team Name": "VDay",
-            "Points": "52"
+            "Team Name": "FIAT Panda Racing",
+            "Points": "112"
+        },
+        {
+            "Team Name": "Ghost Rider Racing - Lethal Dodgeballs",
+            "Points": "95"
+        },
+        {
+            "Team Name": "Spicy Moments Racing Team D5",
+            "Points": "80"
+        },
+        {
+            "Team Name": "Asston Fartin' META Group",
+            "Points": "54"
         },
         {
             "Team Name": "Bad Dragon Racing",
             "Points": "51"
         },
         {
-            "Team Name": "8Loko Racing",
-            "Points": "44"
+            "Team Name": "Grid Thieves Motorsports D5",
+            "Points": "42"
         },
         {
-            "Team Name": "Bitch, Peas",
-            "Points": "30"
+            "Team Name": "Ghost Rider Racing - Ohio",
+            "Points": "38"
         },
         {
-            "Team Name": "Wonderland Racing",
-            "Points": "11"
+            "Team Name": "Rum Runners",
+            "Points": "29"
         },
         {
-            "Team Name": "Baseline Racing - Tango",
-            "Points": "11"
-        },
-        {
-            "Team Name": "Asston Fartin' META Group",
-            "Points": "5"
+            "Team Name": "NHTSA",
+            "Points": "0"
         }
     ]
 }
