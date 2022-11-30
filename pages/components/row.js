@@ -12,7 +12,7 @@ export default function Row(props) {
           textAlign={'center'}
           roundedBottomRight='lg'
         >
-          <Text fontFamily={'GrandNational'} fontSize={'lg'} fontWeight='bold'>{props.int}</Text>
+          <Text fontFamily={'GrandNational, sans-serif'} fontSize={'lg'} fontWeight='bold'>{props.int}</Text>
         </Box>
         <Box flex='1' color='#fff' borderLeft='2px solid' borderColor={rank} pl='5'>
           <Text fontSize={'md'} fontWeight={'bold'}>{props.driver}</Text>
