@@ -2,30 +2,58 @@
     "Driver Standings": [
         {
             "driver": "Harvey Kandola",
-            "points": "172",
+            "points": "272",
             "car": "BMW M4 GT3 2022",
             "team": "Ghost Rider Racing - Three Wide",
             "class": "Gold"
         },
         {
-            "driver": "Lorenzo Ruta",
-            "points": "148",
-            "car": "Porsche 991 II GT3 R 2019",
-            "team": "Spicy Moments Racing Team",
-            "class": "Gold"
-        },
-        {
             "driver": "Logan Schaeffer",
-            "points": "142",
+            "points": "254",
             "car": "McLaren 720S GT3 Special",
             "team": "Autistic Gearheads",
             "class": "Unrated"
         },
         {
+            "driver": "Lorenzo Ruta",
+            "points": "216",
+            "car": "Porsche 991 II GT3 R 2019",
+            "team": "Spicy Moments Racing Team",
+            "class": "Gold"
+        },
+        {
+            "driver": "Fari Henry",
+            "points": "212",
+            "car": "McLaren 720S GT3 Special",
+            "team": "Badmins - Intergalactic",
+            "class": "Unrated"
+        },
+        {
             "driver": "Dan McAllister",
-            "points": "136",
+            "points": "208",
             "car": "BMW M4 GT3 2022",
             "team": "Ghost Rider Racing - Three Wide",
+            "class": "Gold"
+        },
+        {
+            "driver": "Tim Soyk",
+            "points": "191",
+            "car": "Aston Martin Vantage V8 2019",
+            "team": "Worst Pace Scenario",
+            "class": "Gold"
+        },
+        {
+            "driver": "Anthony Calvi",
+            "points": "184",
+            "car": "McLaren 720S GT3 Special",
+            "team": "Badmins - Intergalactic",
+            "class": "Gold"
+        },
+        {
+            "driver": "Nate Allen",
+            "points": "156",
+            "car": "Aston Martin Vantage V8 2019",
+            "team": "Worst Pace Scenario",
             "class": "Gold"
         },
         {
@@ -43,60 +71,39 @@
             "class": "Gold"
         },
         {
-            "driver": "Fari Henry",
-            "points": "120",
-            "car": "McLaren 720S GT3 Special",
-            "team": "Badmins - Intergalactic",
-            "class": "Unrated"
-        },
-        {
-            "driver": "Tim Soyk",
-            "points": "111",
-            "car": "Aston Martin Vantage V8 2019",
-            "team": "Worst Pace Scenario",
-            "class": "Gold"
-        },
-        {
-            "driver": "Anthony Calvi",
-            "points": "99",
-            "car": "McLaren 720S GT3 Special",
-            "team": "Badmins - Intergalactic",
-            "class": "Gold"
-        },
-        {
-            "driver": "Nate Allen",
-            "points": "80",
-            "car": "Aston Martin Vantage V8 2019",
-            "team": "Worst Pace Scenario",
-            "class": "Gold"
-        },
-        {
             "driver": "Josh Smith",
-            "points": "51",
+            "points": "111",
             "car": "BMW M4 GT3 2022",
             "team": "Wall Riders",
             "class": "Unrated"
         },
         {
-            "driver": "Stamati Papadopoulos",
-            "points": "48",
+            "driver": "Cole Compton",
+            "points": "109",
             "car": "Honda NSX Evo 2019",
             "team": "Element Racing Team",
             "class": "Gold"
         },
         {
-            "driver": "Cole Compton",
-            "points": "45",
+            "driver": "Stamati Papadopoulos",
+            "points": "102",
             "car": "Honda NSX Evo 2019",
             "team": "Element Racing Team",
             "class": "Gold"
         },
         {
             "driver": "The Lastrise",
-            "points": "43",
+            "points": "100",
             "car": "BMW M4 GT3 2022",
             "team": "Wall Riders",
             "class": "Gold"
+        },
+        {
+            "driver": "Austin Gaskin",
+            "points": "51",
+            "car": "McLaren 720S GT3 Special",
+            "team": "Sidney Motorsports",
+            "class": "Unrated"
         },
         {
             "driver": "Phillip Bootsma",
@@ -116,23 +123,31 @@
     "Team Standings": [
         {
             "Team Name": "Ghost Rider Racing - Three Wide",
-            "Points": "308"
+            "Points": "480"
         },
         {
             "Team Name": "Badmins - Intergalactic",
-            "Points": "219"
+            "Points": "396"
         },
         {
             "Team Name": "Worst Pace Scenario",
-            "Points": "191"
-        },
-        {
-            "Team Name": "Spicy Moments Racing Team",
-            "Points": "148"
+            "Points": "347"
         },
         {
             "Team Name": "Autistic Gearheads",
-            "Points": "142"
+            "Points": "254"
+        },
+        {
+            "Team Name": "Spicy Moments Racing Team",
+            "Points": "216"
+        },
+        {
+            "Team Name": "Element Racing Team",
+            "Points": "211"
+        },
+        {
+            "Team Name": "Wall Riders",
+            "Points": "211"
         },
         {
             "Team Name": "Smash or Pass",
@@ -143,12 +158,8 @@
             "Points": "126"
         },
         {
-            "Team Name": "Wall Riders",
-            "Points": "94"
-        },
-        {
-            "Team Name": "Element Racing Team",
-            "Points": "93"
+            "Team Name": "Sidney Motorsports",
+            "Points": "51"
         },
         {
             "Team Name": "indifference GRR",
